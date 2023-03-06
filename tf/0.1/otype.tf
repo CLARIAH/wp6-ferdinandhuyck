@@ -1,0 +1,64 @@
+@node
+@author=Jacob van Lennep
+@converters=Dirk Roorda (Text-Fabric)
+@descriptionTf=Diplomatic edition
+@institute=KNAW/Huygens Amsterdam
+@language=nl
+@source=DBNL
+@sourceFormat=TEI
+@sourceUrl=https://www.dbnl.org/tekst/lenn006lotg01_01/
+@title=Ferdinand Huyck
+@valueType=str
+@version=0.1
+@writtenBy=Text-Fabric
+@dateWritten=2023-03-06T16:29:43Z
+
+1-1253161	char
+1253162-1253164	author
+1253165-1253167	availability
+1253168-1253169	bibl
+1253170-1253171	blurb
+1253172	body
+1253173-1253174	change
+1253175-1253217	chapter
+1253218-1257043	chunk
+1257044-1257045	colofon
+1257046-1257049	date
+1257050-1257091	div
+1257092	ebook
+1257093	editionStmt
+1257094	encodingDesc
+1257095-1257099	figure
+1257100	fileDesc
+1257101-1257186	head
+1257187-1257788	hi
+1257789-1257797	idno
+1257798-1257799	imprint
+1257800-1257806	interp
+1257807	interpGrp
+1257808-1257809	item
+1257810-1257931	l
+1257932-1257956	lb
+1257957-1257997	lg
+1257998-1257999	link
+1258000-1258267	name
+1258268-1258276	note
+1258277	notesStmt
+1258278-1258279	order
+1258280-1262004	p
+1262005-1262884	pb
+1262885	pod
+1262886-1262887	price
+1262888-1262889	pubPlace
+1262890	publicationStmt
+1262891-1262892	publisher
+1262893-1262919	q
+1262920-1262921	respStmt
+1262922	revisionDesc
+1262923	sourceDesc
+1262924	text
+1262925-1262927	title
+1262928	titleStmt
+1262929-1262930	titlepage
+1262931-1480483	word
+1480484-1480488	xptr

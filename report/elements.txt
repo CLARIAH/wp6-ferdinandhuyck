@@ -1,0 +1,153 @@
+Inventory of tags and attributes in the source XML file(s).
+Contains the following sections:
+	FORMATTING ATTRIBUTES
+	KEYWORD ATTRIBUTES
+	REMAINING ATTRIBUTES and ELEMENTS
+
+
+
+FORMATTING ATTRIBUTES
+
+	<figure>     rend=            3x inline
+
+	<head>       rend=            2x h2
+	             "               42x h3
+	             "               40x h4
+
+	<hi>         rend=            5x b
+	             "              556x i
+	             "                7x sc
+	             "                4x spat
+	             "               30x sup
+
+	<l>          rend=           30x 1tab
+	             "               30x ;
+
+	<note>       place=           7x foot
+
+	<q>          rend=           27x bq
+
+KEYWORD ATTRIBUTES
+
+	<div>        type=           42x chapter
+
+	<idno>       type=            4x isbn
+	             "                4x nur
+
+	<interp>     type=            7x primair
+
+	<lg>         type=           41x poem
+
+	<name>       type=            1x bible
+	             "               10x person
+	             "              255x topo
+
+	<title>      type=            3x main
+
+REMAINING ATTRIBUTES and ELEMENTS
+
+	<TEI.2>                       1x 
+
+	<author>                      3x 
+
+	<availability>                  3x 
+
+	<bibl>                        2x 
+
+	<blurb>                       2x 
+
+	<body>                        1x 
+
+	<change>                      2x 
+
+	<colofon>                     2x 
+
+	<date>                        4x 
+
+	<ebook>                       1x 
+
+	<editionStmt>                  1x 
+
+	<encodingDesc>                  1x 
+
+	<figure>                      2x 
+
+	<fileDesc>                    1x 
+
+	<head>                        2x 
+
+	<idno>                        1x 
+
+	<imprint>                     2x 
+
+	<interp>     value=           7x X
+
+	<interpGrp>                   1x 
+
+	<item>                        2x 
+
+	<l>                          92x 
+
+	<lb>                         25x 
+
+	<link>                        2x 
+
+	<name>                        2x 
+
+	<note>                        2x 
+	             n=               7x (N)
+
+	<notesStmt>                   1x 
+
+	<order>                       2x 
+
+	<p>                        3725x 
+
+	<pb>         n=               1x I
+	             "                1x II
+	             "                1x III
+	             "                1x IV
+	             "                1x IX
+	             "               18x N
+	             "              180x NN
+	             "              664x NNN
+	             "                1x V
+	             "                1x VI
+	             "                1x VII
+	             "                1x VIII
+	             "                1x X
+	             "                1x XI
+	             "                1x XII
+	             "                1x XIII
+	             "                1x XIV
+	             "                1x XV
+	             "                1x XVI
+	             "                1x XVII
+	             "                1x XVIII
+
+	<pod>                         1x 
+
+	<price>      curr=            2x euro
+
+	<pubPlace>                    2x 
+
+	<publicationStmt>                  1x 
+
+	<publisher>                   2x 
+
+	<respStmt>                    2x 
+
+	<revisionDesc>                  1x 
+
+	<sourceDesc>                  1x 
+
+	<teiHeader>                   1x 
+
+	<text>                        1x 
+
+	<titleStmt>                   1x 
+
+	<titlepage>                   2x 
+
+	<xptr>       to=              3x UNNBN.gif
+	             "                2x lennNNNlotgNNillNN.gif
