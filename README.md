@@ -12,7 +12,8 @@ The conversion TEI to TF is done with [programs/tfFromTei.py](programs/tfFromTei
 
 The conversion TF to Pandas is done with [programs/bigTable.py](programs/bigTable.py).
 
-For an example of how to use the Pandas file, see [programs/pandas.ipynb](programs/pandas.ipynb).
+For an example of how to use the Pandas file, see
+[programs/pandas.ipynb](https://nbviewer.org/github/CLARIAH/wp6-ferdinandhuyck/blob/main/programs/pandas.ipynb).
 
 See [docs](docs) for documentation about provenance and encoding.
 

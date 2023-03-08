@@ -43,4 +43,6 @@ described in [transcription](transcription.md), and originate from TEI attribute
 You can get the complete text from columns `str` + `after` for those rows that have
 the value `word` in the `element` column.
 
-See [pandas.ipynb](../programs/pandas.ipynb) for examples.
+See
+[pandas.ipynb](https://nbviewer.org/github/CLARIAH/wp6-ferdinandhuyck/blob/main/programs/pandas.ipynb)
+for examples.
