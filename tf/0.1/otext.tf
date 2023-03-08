@@ -2,7 +2,7 @@
 @author=Jacob van Lennep
 @converters=Dirk Roorda (Text-Fabric)
 @descriptionTf=Diplomatic edition
-@fmt:text-orig-full={ch}
+@fmt:text-orig-full={str}{after}
 @institute=KNAW/Huygens Amsterdam
 @language=nl
 @sectionFeatures=chapter,chunk
@@ -13,5 +13,5 @@
 @title=Ferdinand Huyck
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-06T16:29:44Z
+@dateWritten=2023-03-08T14:24:36Z
 

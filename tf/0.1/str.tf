@@ -12,9 +12,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-06T16:29:43Z
+@dateWritten=2023-03-08T14:24:36Z
 
-1262931	De
+De
 lotgevallen
 van
 Ferdinand
@@ -35,6 +35,7 @@ en
 1224
 C
 9
+​
 ALGEMENE
 OPMERKINGEN
 Dit
@@ -69,6 +70,7 @@ van
 Lennep
 uit
 1840
+​
 REDACTIONELE
 INGREPEN
 deel
@@ -135,6 +137,7 @@ tussen
 vierkante
 haken
 toegeveoegd
+​
 Bij
 de
 omzetting
@@ -198,6 +201,7 @@ in
 de
 lopende
 tekst
+​
 deel
 1
 pagina
@@ -209,6 +213,7 @@ LOTGEVALLEN
 VAN
 FERDINAND
 HUYCK
+​
 deel
 1
 pagina
@@ -223,6 +228,7 @@ HUYCK
 UITGEGEVEN
 DOOR
 Mr
+​
 J
 VAN
 LENNEP
@@ -231,6 +237,7 @@ TWEE
 DEELEN
 EERSTE
 DEEL
+​
 Te
 AMSTERDAM
 bij
@@ -238,6 +245,7 @@ P
 MEIJER
 WARNARS
 MDCCCXL
+​
 deel
 2
 pagina
@@ -249,6 +257,7 @@ LOTGEVALLEN
 VAN
 FERDINAND
 HUYCK
+​
 deel
 2
 pagina
@@ -263,23 +272,29 @@ HUYCK
 UITGEGEVEN
 DOOR
 MR
+​
 J
 VAN
 LENNEP
 IN
 TWEE
 DEELEN
+
 TWEEDE
 DEEL
+​
 Te
 AMSTERDAM
 bij
 P
 MEIJER
 WARNARS
+
 MDCCCXL
+​
 2003
 dbnl
+​
 lenn006lotg01
 01
 ebook
@@ -299,6 +314,7 @@ Meijer
 Warnars
 Amsterdam
 1840
+​
 DBNL-TEI
 1
 De
@@ -309,6 +325,19 @@ Huyck
 Jacob
 van
 Lennep
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+​
 De
 lotgevallen
 van
@@ -317,6 +346,19 @@ Huyck
 Jacob
 van
 Lennep
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+​
+​
+​
 2003-08-14
 CB
 colofon
@@ -329,6 +371,14 @@ het
 bestand
 naar
 teixlite
+​
+​
+​
+​
+​
+​
+​
+
 Eerste
 deel
 Brief
@@ -344,6 +394,7 @@ inleiding
 dienende
 Amsterdam
 den
+​
 Ik
 weet
 niet
@@ -540,6 +591,7 @@ Akkaron
 door
 Richard
 Leeuwenhart
+
 Er
 was
 in
@@ -1131,6 +1183,7 @@ bleef
 dus
 de
 4o
+​
 edities
 voorstaan
 en
@@ -1142,6 +1195,7 @@ men
 ook
 doorgaands
 op
+
 haar
 tafel
 een
@@ -1748,6 +1802,7 @@ zij
 het
 gebraad
 voorafgaan
+
 Het
 voorbeeld
 dier
@@ -2056,6 +2111,7 @@ den
 disch
 had
 verteld
+
 betreffende
 de
 misslagen
@@ -2680,6 +2736,7 @@ heb
 ik
 er
 nooit
+
 van
 gehouden
 om
@@ -2969,6 +3026,7 @@ men
 aan
 Cicero
 toekent
+
 indien
 gij
 of
@@ -3585,6 +3643,7 @@ van
 die
 perremptoire
 manier
+
 om
 de
 menschen
@@ -3688,6 +3747,7 @@ een
 plus
 forte
 raison
+​
 maar
 het
 gedane
@@ -3897,6 +3957,7 @@ waarmede
 zij
 te
 worstelen
+
 hebben
 haar
 oorsprong
@@ -4187,6 +4248,7 @@ eens
 hier
 maar
 denk
+
 er
 aan
 de
@@ -4773,6 +4835,7 @@ en
 data
 heeft
 weggelaten
+
 er
 hier
 en
@@ -4974,9 +5037,11 @@ nemen
 overtuigd
 dat
 enz
+​
 Uw
 vriend
 P
+
 Woord
 van
 de
@@ -5154,6 +5219,7 @@ telwoord
 wordt
 of
 wanneer
+
 de
 laatsten
 bijzonderen
@@ -5196,8 +5262,10 @@ daarin
 geen
 ongelijk
 -
+​
 de
 uitgever
+
 Eerste
 hoofdstuk
 Waarin
@@ -5377,6 +5445,7 @@ uwer
 mij
 ondervraagd
 betreffende
+
 hetgeen
 mij
 na
@@ -5632,6 +5701,7 @@ ik
 voor
 u
 schreef
+
 en
 u
 steeds
@@ -5711,6 +5781,7 @@ kan
 bij
 dezen
 inroep
+​
 Het
 was
 in
@@ -5871,6 +5942,7 @@ van
 Baalen
 en
 Co
+​
 te
 Amster-dam
 en
@@ -6124,6 +6196,7 @@ het
 eerst
 weder
 over
+
 Munsterland
 teruggekeerd
 de
@@ -6372,6 +6445,7 @@ van
 de
 herhaalde
 offers
+
 aan
 Bacchus
 gebracht
@@ -7126,6 +7200,7 @@ dat
 wij
 de
 grootste
+
 helft
 stappende
 zouden
@@ -7891,6 +7966,7 @@ grond
 der
 stoffaadje
 uitmaakte
+
 Het
 kamizool
 dat
@@ -8141,6 +8217,7 @@ het
 aan
 geen
 ijdelheid
+
 worden
 geweten
 nog
@@ -8389,6 +8466,7 @@ mijn
 gemak
 afleggen
 zelfs
+
 al
 dwong
 mij
@@ -8642,6 +8720,7 @@ en
 ik
 wischte
 mij
+
 een
 traan
 uit
@@ -8890,6 +8969,7 @@ zeer
 nieuwsgierig
 naar
 was
+
 daar
 mijn
 gedachten
@@ -8954,6 +9034,7 @@ herberg
 binnen
 te
 treden
+
 Tweede
 hoofdstuk
 Waarin
@@ -9165,6 +9246,7 @@ mijn
 oogen
 trof
 hetwelk
+
 tegen
 den
 gemenieden
@@ -9412,6 +9494,7 @@ toonen
 dat
 ik
 geen
+
 plan
 had
 mij
@@ -9662,6 +9745,7 @@ ben
 immers
 zelf
 maar
+
 een
 arme
 reiziger
@@ -9932,6 +10016,7 @@ een
 pijp
 aanbieden
 -
+
 -
 Ik
 dank
@@ -10130,7 +10215,8 @@ dat
 ik
 een
 Grieksch
-testamentMen
+testament
+Men
 weet
 dat
 studenten
@@ -10151,6 +10237,7 @@ had
 De
 koop
 was
+
 spoedig
 gesloten
 en
@@ -10914,6 +11001,7 @@ boeg
 kunt
 zorgen
 -
+
 Deze
 forsche
 uitdaging
@@ -11677,6 +11765,7 @@ van
 het
 gezegde
 bevestigde
+
 -
 Dat
 vereischt
@@ -11938,6 +12027,7 @@ kunnen
 staan
 as
 je
+
 t
 zoo
 anleit
@@ -12224,6 +12314,7 @@ questie
 gesproken
 worden
 Zwik
+
 zeide
 ik
 mijn
@@ -12462,6 +12553,7 @@ drieën
 as
 ik
 hoor
+
 -
 k
 Sou
@@ -12682,6 +12774,7 @@ op
 nieuw
 zijn
 gezang
+
 Ik
 weet
 niet
@@ -12936,6 +13029,7 @@ was
 vrij
 en
 ongedwongen
+
 en
 de
 roode
@@ -13427,6 +13521,7 @@ riep
 de
 arme
 drommel
+
 zijne
 over
 den
@@ -13660,6 +13755,7 @@ mes
 te
 komen
 -
+
 -
 Hawaij
 hawaij
@@ -13899,6 +13995,7 @@ een
 bewijs
 van
 vrees
+
 aangezien
 en
 de
@@ -14165,6 +14262,7 @@ een
 oogenblik
 dat
 hij
+
 niet
 op
 tegenweer
@@ -14407,6 +14505,7 @@ weet
 niet
 welke
 goede
+
 geest
 mij
 nu
@@ -14934,6 +15033,7 @@ te
 Zerdam
 wherkte
 as
+
 een
 gemeene
 krijer
@@ -15148,6 +15248,7 @@ verder
 lastig
 te
 vallen
+
 Derde
 hoofdstuk
 Waarin
@@ -15355,6 +15456,7 @@ en
 dan
 door
 een
+
 voorbijdrijvend
 wolkje
 was
@@ -15598,6 +15700,7 @@ het
 Zuidermeer
 ontlasten
 zoude
+
 Maar
 deze
 hoop
@@ -15850,6 +15953,7 @@ door
 dik
 en
 dun
+
 door
 plassen
 en
@@ -16102,6 +16206,7 @@ en
 sierlijk
 hek
 van
+
 gegoten
 ijzer
 op
@@ -16343,6 +16448,7 @@ op
 dat
 hij
 een
+
 minnaar
 van
 bloemen
@@ -16854,6 +16960,7 @@ namelijk
 niet
 alleen
 was
+
 Op
 eene
 der
@@ -17115,6 +17222,7 @@ mijner
 verschijning
 te
 bevatten
+
 En
 hier
 ondervond
@@ -17355,6 +17463,7 @@ een
 schuilplaats
 vergunne
 -
+
 Ik
 had
 langzamerhand
@@ -17612,6 +17721,7 @@ eens
 naar
 buiten
 te
+
 zien
 of
 de
@@ -17865,6 +17975,7 @@ en
 waar
 ik
 mijn
+
 voeten
 over
 uitstrekte
@@ -18343,6 +18454,7 @@ volgende
 woorden
 te
 plaatsen
+
 -
 Mag
 ik
@@ -18584,6 +18696,7 @@ Hoofdschout
 te
 Amsterdam
 -
+
 -
 De
 Heer
@@ -18828,6 +18941,7 @@ niet
 geweest
 was
 -
+
 -
 En
 hoe
@@ -19102,6 +19216,7 @@ van
 u
 houdt
 -
+
 -
 Zij
 heeft
@@ -19346,6 +19461,7 @@ gaan
 en
 ter
 liefde
+
 zijner
 familie
 halve
@@ -19593,6 +19709,7 @@ want
 ik
 had
 al
+
 lang
 te
 huis
@@ -19842,6 +19959,7 @@ zij
 terwijl
 zij
 dreigend
+
 den
 vinger
 ophief
@@ -20097,6 +20215,7 @@ toe
 dat
 mijn
 blijdschap
+
 over
 de
 eerste
@@ -20356,6 +20475,7 @@ te
 verwarmen
 Het
 zoude
+
 mij
 voor
 de
@@ -20607,6 +20727,7 @@ rijmpjens
 te
 zijn
 zeide
+
 ik
 mij
 omdraaiende
@@ -20876,6 +20997,7 @@ pas
 te
 brengen
 -
+
 Ik
 wendde
 mij
@@ -21135,6 +21257,7 @@ niet
 alleen
 Venus
 dat
+
 sprak
 van
 zelf
@@ -21391,6 +21514,7 @@ op
 den
 stoep
 vertoonden
+
 Vierde
 hoofdstuk
 t
@@ -21584,6 +21708,7 @@ mij
 doorgaands
 eerder
 een
+
 lach
 van
 medelijden
@@ -21838,6 +21963,7 @@ verkeerende
 dat
 het
 hier
+
 niet
 zuiver
 toeging
@@ -22090,6 +22216,7 @@ pak
 lubben
 op
 den
+
 voorarm
 neer
 Het
@@ -22335,6 +22462,7 @@ die
 van
 zijn
 vader
+
 ofschoon
 insgelijks
 die
@@ -22592,6 +22720,7 @@ die
 onafhankelijkheid
 te
 bezitten
+
 waarop
 de
 Muzenzonen
@@ -22711,7 +22840,8 @@ geleerde
 op
 een
 vliering
-woondeMen
+woonde
+Men
 kan
 zien
 dat
@@ -22831,6 +22961,7 @@ bouwde
 overal
 nieuwe
 en
+
 prachtige
 huizen
 goed
@@ -23086,6 +23217,7 @@ draagt
 en
 zóó
 gebeurde
+
 het
 dat
 schilders
@@ -23297,6 +23429,7 @@ van
 exemplaren
 in
 4o
+​
 formaat
 met
 fraaie
@@ -23339,6 +23472,7 @@ eigenaar
 der
 door
 hem
+
 bezongen
 hofstede
 gekomen
@@ -23592,6 +23726,7 @@ echter
 alleen
 het
 uiterlijke
+
 voorkomen
 van
 den
@@ -23851,6 +23986,7 @@ hij
 niet
 ruim
 genoeg
+
 om
 dichtgeknoopt
 te
@@ -24079,6 +24215,7 @@ Bij
 den
 ouden
 Heer
+
 Blaek
 scheen
 zij
@@ -24329,6 +24466,7 @@ tot
 mij
 als
 om
+
 mij
 te
 vragen
@@ -24562,6 +24700,7 @@ begon
 in
 te
 slorpen
+
 -
 En
 heeft
@@ -24807,6 +24946,7 @@ niets
 in
 te
 brengen
+
 ik
 trad
 derhalve
@@ -25283,6 +25423,7 @@ dat
 het
 de
 zoon
+
 van
 den
 Heer
@@ -25558,6 +25699,7 @@ mij
 toen
 nog
 onbegrijpelijke
+
 mengeling
 van
 hoogst
@@ -26010,6 +26152,7 @@ het
 middagmaal
 te
 houden
+
 Vijfde
 hoofdstuk
 Hetwelk
@@ -26472,6 +26615,7 @@ plaats
 he
 kenje
 meneer
+
 Blaek
 Hij
 houdt
@@ -26729,6 +26873,7 @@ ketting
 te
 leggen
 -
+
 Het
 bericht
 dat
@@ -27240,6 +27385,7 @@ een
 afzonderlijk
 kamertje
 gezeten
+
 was
 Mits
 nu
@@ -27404,7 +27550,8 @@ al
 -
 t
 is
-DuitschZoo
+Duitsch
+Zoo
 noemde
 men
 nog
@@ -27437,6 +27584,7 @@ naam
 II
 Bedrijf
 10e
+​
 tooneel
 We
 praeten
@@ -27504,6 +27652,7 @@ ik
 niet
 op
 zijn
+
 gezelschap
 langs
 den
@@ -27776,6 +27925,7 @@ bij
 mijn
 besluit
 om
+
 niet
 te
 vertrekken
@@ -28044,6 +28194,7 @@ van
 mij
 af
 en
+
 zeer
 in
 t
@@ -28832,6 +28983,7 @@ ander
 aanzicht
 Geen
 welig
+
 groeiend
 geboomte
 geen
@@ -29088,6 +29240,7 @@ aan
 mijn
 rechterzijde
 een
+
 vrij
 dicht
 geplant
@@ -29337,6 +29490,7 @@ hand
 het
 was
 een
+
 goede
 som
 in
@@ -29597,6 +29751,7 @@ hij
 met
 een
 honenden
+
 lach
 wel
 niet
@@ -29863,6 +30018,7 @@ alzoo
 de
 medehelpers
 van
+
 Andries
 zoo
 hij
@@ -30353,6 +30509,7 @@ gebiedenden
 toon
 hoorde
 zeggen
+
 kent
 gij
 hem
@@ -30626,6 +30783,7 @@ onder
 de
 afgrijsselijkste
 vervloekingen
+
 achtervolgd
 waren
 op
@@ -30879,6 +31037,7 @@ vuistslag
 op
 het
 hoofd
+
 van
 een
 mijner
@@ -31114,6 +31273,7 @@ meer
 zeide
 de
 vreemdeling
+
 neemt
 uwen
 makker
@@ -31366,6 +31526,7 @@ trokken
 zij
 langs
 verschillende
+
 kanten
 het
 bosch
@@ -31529,6 +31690,7 @@ spoedig
 uit
 ons
 gezicht
+
 Zesde
 hoofdstuk
 Waarin
@@ -31730,6 +31892,7 @@ morgen
 bewezen
 hebt
 -
+
 -
 Geloof
 Kaptein
@@ -31970,6 +32133,7 @@ gij
 tot
 een
 deftigen
+
 stand
 in
 de
@@ -32223,6 +32387,7 @@ bij
 elken
 schildwacht
 een
+
 half
 uur
 te
@@ -32473,6 +32638,7 @@ en
 het
 kwam
 mij
+
 onverklaarbaar
 voor
 dat
@@ -32719,6 +32885,7 @@ van
 Kapitein
 toekent
 -
+
 -
 Ik
 heb
@@ -32971,6 +33138,7 @@ deze
 ik
 kom
 niet
+
 alleen
 dezen
 weg
@@ -33201,6 +33369,7 @@ ik
 nam
 echter
 geen
+
 plaats
 maar
 bleef
@@ -33443,6 +33612,7 @@ zorgvuldig
 achter
 zich
 sluitende
+
 Mijn
 eerste
 beweging
@@ -33697,6 +33867,7 @@ buiten
 staat
 hebben
 gesteld
+
 De
 jonge
 Juffer
@@ -33948,6 +34119,7 @@ gezet
 en
 met
 drie
+
 ijzeren
 bouten
 voorzien
@@ -34194,6 +34366,7 @@ in
 langzame
 teugen
 ledig
+
 -
 Te
 veel
@@ -34429,6 +34602,7 @@ tijd
 mochten
 spreken
 -
+
 Hier
 zweeg
 zij
@@ -34679,6 +34853,7 @@ te
 moeten
 te
 kennen
+
 geven
 dat
 ik
@@ -34917,6 +35092,7 @@ slot
 even
 wijs
 lieten
+
 als
 ik
 bij
@@ -35180,6 +35356,7 @@ land-edelman
 of
 gegoeden
 pachter
+
 -
 Ik
 vraag
@@ -35686,6 +35863,7 @@ woorden
 van
 vader
 en
+
 dochter
 verzeld
 had
@@ -35730,6 +35908,7 @@ volgende
 Hoofdstuk
 beschreven
 vinden
+
 Zevende
 hoofdstuk
 Vermeldende
@@ -35944,6 +36123,7 @@ heeft
 waartoe
 dan
 die
+
 plechtstatige
 voorbereiding
 en
@@ -36199,6 +36379,7 @@ zeide
 ik
 UEd
 te
+
 doen
 opmerken
 dat
@@ -36454,6 +36635,7 @@ die
 gij
 zelf
 beter
+
 kunt
 uitdenken
 dan
@@ -36722,6 +36904,7 @@ wilt
 Dit
 dilemma
 wil
+
 ik
 u
 slechts
@@ -36980,6 +37163,7 @@ redeneering
 in
 te
 brengen
+
 en
 ofschoon
 het
@@ -37252,6 +37436,7 @@ van
 oude
 betrekkingen
 beter
+
 schuil
 houden
 en
@@ -37511,6 +37696,7 @@ poos
 het
 spoor
 bijster
+
 kunnen
 maken
 maar
@@ -37756,6 +37942,7 @@ Amsterdammers
 allen
 volkomen
 dezelfde
+
 zijt
 en
 honderd
@@ -38024,6 +38211,7 @@ rampzalige
 van
 mijn
 toestand
+
 en
 van
 dien
@@ -38537,6 +38725,7 @@ sekse
 verschuldigd
 is
 -
+
 Ik
 had
 nu
@@ -39292,6 +39481,7 @@ Piet
 te
 ontfangen
 -
+
 -
 Zij
 had
@@ -40287,6 +40477,7 @@ van
 vader
 en
 dochter
+
 beide
 waren
 gemakkelijk
@@ -40417,6 +40608,7 @@ gemeenzaamheid
 aanleiding
 geven
 kon
+
 Achtste
 hoofdstuk
 Waarin
@@ -40609,6 +40801,7 @@ Naarden
 te
 wandelen
 -
+
 -
 O
 zeide
@@ -40866,6 +41059,7 @@ den
 trommel
 hield
 -
+
 -
 Gij
 zoudt
@@ -41123,6 +41317,7 @@ onderscheidene
 volkeren
 ja
 dat
+
 hij
 vele
 en
@@ -41621,6 +41816,7 @@ hart
 en
 meer
 geneigd
+
 hetgeen
 hij
 bezat
@@ -41861,6 +42057,7 @@ haar
 wijsheid
 om
 een
+
 goede
 keuze
 te
@@ -42123,6 +42320,7 @@ de
 opmerking
 vergunnen
 zeide
+
 ik
 dat
 gelijk
@@ -42365,6 +42563,7 @@ gezegde
 scheen
 te
 verwijten
+
 -
 Gij
 hebt
@@ -42620,6 +42819,7 @@ stoel
 die
 zich
 daarin
+
 bevond
 voor
 mijn
@@ -42876,6 +43076,7 @@ en
 verwarde
 denkbeelden
 maalden
+
 mij
 door
 het
@@ -43147,6 +43348,7 @@ of
 ik
 niet
 altemet
+
 de
 legerstede
 van
@@ -43645,6 +43847,7 @@ woorden
 eenigzins
 gerust
 stelden
+
 ten
 opzichte
 der
@@ -44415,6 +44618,7 @@ hem
 tevens
 hoe
 mijn
+
 nachtrust
 gestoord
 was
@@ -44660,6 +44864,7 @@ de
 reis
 aantevangen
 -
+
 -
 Ik
 weet
@@ -44912,6 +45117,7 @@ hand
 Toen
 ik
 mij
+
 omwendde
 zag
 ik
@@ -45407,6 +45613,7 @@ Naarden
 bracht
 Buiten
 de
+
 poort
 nam
 ik
@@ -45438,6 +45645,7 @@ de
 herberg
 te
 Naarden
+
 Negende
 hoofdstuk
 Behelzende
@@ -45498,6 +45706,7 @@ het
 adres
 van
 Mr
+​
 F
 Huyck
 De
@@ -45648,6 +45857,7 @@ ik
 mij
 weder
 naar
+
 het
 zijkamertje
 terug
@@ -45911,6 +46121,7 @@ UEd
 wezen
 wilde
 -
+
 Men
 treft
 soms
@@ -46152,6 +46363,7 @@ ik
 tot
 hem
 richtte
+
 en
 geene
 de
@@ -46411,6 +46623,7 @@ tot
 aan
 de
 schuit
+
 te
 brengen
 zeide
@@ -46633,6 +46846,7 @@ haar
 familie
 met
 nadruk
+
 op
 het
 woord
@@ -46901,6 +47115,7 @@ ontstaan
 hetwelk
 zich
 later
+
 bevestigde
 doch
 dat
@@ -47416,6 +47631,7 @@ naburen
 de
 onbescheidenheid
 eenigzins
+
 vergeeflijk
 maakt
 Maar
@@ -47673,6 +47889,7 @@ zich
 in
 een
 andere
+
 in
 te
 schepen
@@ -48214,6 +48431,7 @@ haar
 in
 tranen
 uitbersten
+
 Hoewel
 ik
 nooit
@@ -48464,6 +48682,7 @@ zal
 ras
 weder
 over
+
 zijn
 Ach
 misschien
@@ -48721,6 +48940,7 @@ die
 vroeger
 ik
 schaam
+
 mij
 bijkans
 het
@@ -48979,6 +49199,7 @@ geen
 Hollandsche
 opvoeding
 had
+
 genoten
 en
 zich
@@ -49218,6 +49439,7 @@ Dit
 is
 zeker
 dat
+
 mijn
 beweging
 onwillekeurig
@@ -49471,6 +49693,7 @@ aandoening
 de
 hand
 reikende
+
 en
 mijn
 vader
@@ -49721,6 +49944,7 @@ een
 plechtigen
 toon
 moet
+
 onze
 korte
 kennis
@@ -49981,6 +50205,7 @@ een
 goeden
 uitslag
 met
+
 zijn
 bedoelingen
 toetewenschen
@@ -50485,6 +50710,7 @@ het
 geheim
 te
 komen
+
 Maar
 het
 was
@@ -50587,6 +50813,7 @@ avonturen
 ten
 eenemale
 verdrong
+
 Tiende
 hoofdstuk
 Waarin
@@ -50793,6 +51020,7 @@ alleen
 de
 bovendeur
 openende
+
 en
 met
 een
@@ -51078,6 +51306,7 @@ ja
 waarlijk
 daar
 zat
+
 mijn
 moeder
 met
@@ -51604,6 +51833,7 @@ niet
 gemakkelijk
 afkomen
 -
+
 -
 Zie
 toch
@@ -52127,6 +52357,7 @@ ja
 Ferdinandje
 zeide
 Susanna
+
 dat
 moogt
 gij
@@ -52383,6 +52614,7 @@ zoo
 dat
 smeerige
 pakje
+
 t
 geen
 gij
@@ -52627,6 +52859,7 @@ dan
 een
 brief
 -
+
 -
 Vader
 beste
@@ -52886,6 +53119,7 @@ niet
 misleiden
 wil
 en
+
 een
 Hoofdschout
 dien
@@ -53151,6 +53385,7 @@ lang
 geleden
 dat
 hij
+
 niet
 door
 moeder
@@ -53402,6 +53637,7 @@ met
 mijn
 lokken
 spelende
+
 hebt
 gij
 toen
@@ -53663,6 +53899,7 @@ die
 bagaadje
 van
 u
+
 En
 zijn
 al
@@ -53932,6 +54169,7 @@ en
 linnegoed
 uit
 mijn
+
 koffer
 te
 krijgen
@@ -54199,6 +54437,7 @@ drogist
 op
 het
 Rokin
+
 verhuren
 indien
 hij
@@ -54467,6 +54706,7 @@ triomphe
 sans
 gloire
 -
+
 -
 Zeer
 goed
@@ -54645,6 +54885,7 @@ een
 gerusten
 slaap
 gedompeld
+
 Elfde
 hoofdstuk
 Hetwelk
@@ -55085,6 +55326,7 @@ gegalonneerde
 rok
 voorzeker
 niet
+
 weinig
 luister
 bijzette
@@ -55340,6 +55582,7 @@ waarmede
 hun
 echt
 gezegend
+
 werd
 had
 dus
@@ -55589,6 +55832,7 @@ reis
 zoude
 bewijzen
 Dit
+
 werd
 met
 gretigheid
@@ -55850,6 +56094,7 @@ vastgezet
 en
 de
 reis
+
 van
 Genève
 naar
@@ -56115,6 +56360,7 @@ stout
 weg
 dat
 hij
+
 die
 van
 een
@@ -56379,6 +56625,7 @@ van
 een
 minderen
 stand
+
 uitgelokt
 door
 den
@@ -56624,6 +56871,7 @@ Amsterdam
 mijns
 vaders
 voorganger
+
 die
 zich
 te
@@ -56865,6 +57113,7 @@ als
 ambtenaar
 bekend
 zich
+
 belast
 met
 het
@@ -57000,7 +57249,8 @@ tweemalen
 daags
 zyn
 rapport
-doenMen
+doen
+Men
 herinnere
 zich
 dat
@@ -57112,6 +57362,7 @@ vertrouwen
 was
 en
 niet
+
 besmet
 door
 het
@@ -57370,6 +57621,7 @@ stokken
 moet
 doodslaan
 Van
+
 postuur
 was
 hij
@@ -57620,6 +57872,7 @@ jeugd
 af
 ingescherpt
 dat
+
 wij
 nooit
 aan
@@ -57903,6 +58156,7 @@ dag
 was
 -
 No
+​
 1
 zeide
 hij
@@ -57947,6 +58201,7 @@ behoorlijk
 te
 rangschikken
 no
+​
 1
 de
 Koning
@@ -58094,6 +58349,7 @@ aan
 zijn
 geld
 en
+
 hel
 zal
 hen
@@ -58246,6 +58502,7 @@ verder
 -
 -
 No
+​
 2
 De
 diefstal
@@ -58269,6 +58526,7 @@ in
 den
 Duvelshoek
 no
+​
 110
 -
 -
@@ -58398,6 +58656,7 @@ Verder
 -
 -
 No
+​
 3
 Campo
 Weyerman
@@ -58557,6 +58816,7 @@ meer
 -
 -
 No
+​
 4
 Wij
 hebben
@@ -58592,6 +58852,7 @@ hij
 zich
 op
 -
+
 -
 Hij
 heeft
@@ -58696,6 +58957,7 @@ meer
 -
 -
 No
+​
 5
 Zie
 hier
@@ -58866,6 +59128,7 @@ den
 tijd
 doorbrengt
 -
+
 de
 Heer
 Blaek
@@ -59106,6 +59369,7 @@ van
 de
 Leliegracht
 -
+
 -
 Er
 zijn
@@ -59180,6 +59444,7 @@ buiten
 -
 -
 No
+​
 6
 De
 bende
@@ -59329,6 +59594,7 @@ de
 herberg
 te
 Zoest
+
 Hij
 is
 van
@@ -59474,6 +59740,7 @@ hem
 -
 -
 No
+​
 7
 De
 Vliesridder
@@ -59839,6 +60106,7 @@ plaats
 hebben
 Kunt
 gij
+
 niet
 nagaan
 met
@@ -60088,6 +60356,7 @@ zijn
 geweest
 -
 en
+
 dan
 al
 ware
@@ -60188,6 +60457,7 @@ een
 poos
 vertrokken
 was
+
 Twaalfde
 hoofdstuk
 Waarin
@@ -60401,6 +60671,7 @@ de
 volgende
 dagen
 zullen
+
 wij
 over
 weinige
@@ -60523,6 +60794,7 @@ quare
 sit
 factus
 adulter
+
 In
 promptu
 est
@@ -60918,6 +61190,7 @@ nu
 vlei
 ik
 mij
+
 dat
 gij
 te
@@ -61170,6 +61443,7 @@ met
 verscheidene
 Correspondenten
 van
+
 het
 huis
 en
@@ -61437,6 +61711,7 @@ waereld
 voortleefde
 neen
 ik
+
 zag
 mij
 als
@@ -61685,6 +61960,7 @@ ongewoon
 verschijnsel
 dat
 in
+
 groote
 familiën
 vooral
@@ -61934,6 +62210,7 @@ weten
 er
 zijn
 er
+
 die
 hoovaardig
 op
@@ -62179,6 +62456,7 @@ en
 wanneer
 zij
 zich
+
 met
 kracht
 tegen
@@ -62411,6 +62689,7 @@ poëzy
 al
 wat
 maar
+
 gedrukt
 werd
 doch
@@ -62918,6 +63197,7 @@ den
 avond
 te
 blijven
+
 doorbrengen
 om
 de
@@ -63161,6 +63441,7 @@ hij
 mag
 niet
 nalaten
+
 van
 op
 Heizicht
@@ -63401,6 +63682,7 @@ ik
 tot
 antwoorden
 bereid
+
 en
 ik
 schoof
@@ -63664,6 +63946,7 @@ Ferdinand
 hadden
 belang
 gesteld
+
 Toen
 de
 eerste
@@ -63910,6 +64193,7 @@ dat
 ik
 haar
 niet
+
 vergezeld
 had
 tante
@@ -64193,6 +64477,7 @@ en
 begint
 met
 een
+
 schor
 stemmetje
 ik
@@ -64473,6 +64758,7 @@ Ik
 wilde
 wel
 Nicht
+
 dat
 gij
 over
@@ -64748,6 +65034,7 @@ mogelijk
 van
 het
 vorige
+
 onderwerp
 te
 verwijderen
@@ -64998,6 +65285,7 @@ vertoonde
 aan
 de
 verheugde
+
 kinderen
 een
 menigte
@@ -65489,6 +65777,7 @@ dat
 is
 niet
 mooi
+
 ons
 ongeduld
 eerst
@@ -65732,6 +66021,7 @@ jongere
 leden
 der
 familie
+
 beschonk
 ofschoon
 gij
@@ -65985,6 +66275,7 @@ dit
 geschenk
 bracht
 een
+
 langdurige
 vergelijking
 te
@@ -66237,6 +66528,7 @@ opgetogenheid
 beschouwd
 naarmate
 der
+
 grootsche
 herinneringen
 die
@@ -66416,6 +66708,7 @@ de
 lijdende
 partijen
 achterlieten
+
 Dertiende
 hoofdstuk
 Behelzende
@@ -66605,6 +66898,7 @@ zeggen
 alleen
 is
 zij
+
 nog
 zoo
 ik
@@ -66830,6 +67124,7 @@ leggen
 van
 te
 hebben
+
 geperpetreerd
 het
 enorme
@@ -66896,6 +67191,7 @@ van
 Baalen
 en
 Co
+​
 -
 -
 En
@@ -67096,6 +67392,7 @@ dat
 ik
 uw
 nieuwsgierigheid
+
 onbevredigd
 liet
 maar
@@ -67859,6 +68156,7 @@ die
 schatten
 geërfd
 -
+
 -
 Hoor
 eens
@@ -68105,6 +68403,7 @@ in
 geslagen
 of
 verbaasdheid
+
 vertoonde
 zich
 op
@@ -68295,6 +68594,7 @@ met
 den
 diepsten
 eerbied
+​
 UEG
 Dienstvaardige
 en
@@ -68304,6 +68604,7 @@ en
 Hoogschatter
 Lucas
 Helding
+​
 Mijn
 adres
 is
@@ -68315,6 +68616,7 @@ huïze
 van
 Heynsz
 portretschilder
+
 Het
 nevensgaand
 papier
@@ -68322,6 +68624,7 @@ droeg
 tot
 opschrift
 JUBELZANG
+
 Uitgegalmd
 ter
 gelegenheid
@@ -68537,6 +68840,7 @@ denkbeeld
 om
 Papa
 bij
+
 Egeus
 te
 vergelijken
@@ -68769,6 +69073,7 @@ aartigheden
 zeide
 mijn
 moeder
+
 -
 Maar
 hoe
@@ -69018,6 +69323,7 @@ vérwensching
 tevens
 zeide
 Susanna
+
 -
 Intusschen
 vervolgde
@@ -69226,6 +69532,7 @@ een
 oproer
 zijn
 -
+
 Veertiende
 hoofdstuk
 Waarin
@@ -69415,10 +69722,12 @@ stem
 uit
 de
 hoogte
+
 -
 Ik
 wilde
-MonsieurDe
+Monsieur
+De
 tijtel
 van
 mijn
@@ -69652,6 +69961,7 @@ voor
 de
 helft
 gebroken
+
 waren
 de
 vloer
@@ -69901,6 +70211,7 @@ daarop
 geplaatste
 kleedingstukken
 die
+
 hij
 gezamentlijk
 op
@@ -70171,6 +70482,7 @@ aan
 te
 hooren
 -
+
 Ik
 liet
 hem
@@ -70429,6 +70741,7 @@ gebeurt
 het
 dat
 ik
+
 hem
 de
 beste
@@ -70700,6 +71013,7 @@ het
 van
 hem
 wel
+
 verdragen
 wij
 zijn
@@ -70941,6 +71255,7 @@ openbaren
 De
 brandewijn
 had
+
 intusschen
 op
 Helding
@@ -71212,6 +71527,7 @@ Heer
 Huyck
 het
 denkbeeld
+
 deed
 mij
 schrikken
@@ -71736,6 +72052,7 @@ behalve
 aangenaam
 zijn
 -
+
 -
 Dat
 is
@@ -72018,6 +72335,7 @@ dat
 ik
 van
 aart
+
 gezellig
 ben
 en
@@ -72274,6 +72592,7 @@ aanbieden
 -
 Er
 ware
+
 slechts
 een
 ding
@@ -72518,6 +72837,7 @@ levens
 lang
 voor
 dankbaar
+
 zijn
 -
 En
@@ -72786,6 +73106,7 @@ van
 mijn
 bezoek
 en
+
 na
 de
 twee
@@ -73029,6 +73350,7 @@ arm
 de
 deur
 aan
+
 Lodewijk
 Blaek
 die
@@ -73260,6 +73582,7 @@ vermoeden
 ongegrond
 was
 -
+
 -
 o
 Mademoiselle
@@ -73504,6 +73827,7 @@ hebt
 weten
 uit
 te
+
 vorschen
 is
 een
@@ -73751,6 +74075,7 @@ voldoet
 zal
 ik
 zoo
+
 vrij
 zijn
 te
@@ -74002,6 +74327,7 @@ versta
 u
 niet
 zeide
+
 Amelia
 terwijl
 zij
@@ -74252,6 +74578,7 @@ woorden
 te
 zeggen
 -
+
 -
 Ik
 wachtte
@@ -75017,6 +75344,7 @@ van
 eer
 de
 reputatie
+
 van
 een
 fatsoenlijk
@@ -75268,6 +75596,7 @@ zal
 u
 heden
 avond
+
 nog
 een
 briefje
@@ -75381,7 +75710,8 @@ voorlezen
 zeer
 onaangename
 dingen
--Aldaar
+-
+Aldaar
 werd
 voorheen
 het
@@ -75727,6 +76057,7 @@ voor
 de
 genomene
 moeite
+
 maar
 toch
 ongaarne
@@ -75980,6 +76311,7 @@ evenmin
 als
 zij
 -
+
 Ik
 hield
 mijn
@@ -76237,6 +76569,7 @@ te
 doen
 te
 hebben
+
 Vijftiende
 hoofdstuk
 Vermeldende
@@ -76449,6 +76782,7 @@ zuster
 een
 kreet
 van
+
 verbazing
 uiten
 stapte
@@ -76926,6 +77260,7 @@ blik
 aanziende
 zij
 zijn
+
 recht
 in
 haar
@@ -77198,6 +77533,7 @@ bij
 t
 uitgaan
 mijn
+
 gift
 in
 t
@@ -77447,6 +77783,7 @@ zoudt
 gij
 zeker
 opstaan
+
 en
 nijgen
 om
@@ -77700,6 +78037,7 @@ werden
 zoodat
 Tante
 haar
+
 houding
 begon
 op
@@ -77965,6 +78303,7 @@ had
 want
 het
 voorhuis
+
 stond
 vol
 van
@@ -78230,6 +78569,7 @@ een
 ruiker
 te
 maken
+
 -
 Te
 deksel
@@ -78491,6 +78831,7 @@ eens
 rond
 zoude
 wandelen
+
 en
 met
 langzame
@@ -78749,6 +79090,7 @@ geslagen
 en
 ik
 voelde
+
 dat
 ik
 beefde
@@ -78985,6 +79327,7 @@ haar
 gedrag
 te
 mijwaart
+
 zoude
 uitkomen
 en
@@ -79476,6 +79819,7 @@ heb
 schuldig
 gemaakt
 -
+
 -
 Welaan
 zeide
@@ -79722,6 +80066,7 @@ het
 laatst
 zelf
 te
+
 geloven
 dat
 zij
@@ -80228,6 +80573,7 @@ koeien
 die
 met
 een
+
 statigen
 tred
 het
@@ -80480,6 +80826,7 @@ gesprek
 met
 een
 kloeken
+
 landman
 wien
 ik
@@ -80732,6 +81079,7 @@ Tante
 niet
 tegenspreken
 -
+
 -
 Hoe
 heb
@@ -81026,6 +81374,7 @@ voor
 80
 t
 stuk
+
 gekocht
 hebt
 van
@@ -81261,6 +81610,7 @@ nog
 altijd
 statig
 naar
+
 boven
 Tante
 van
@@ -81518,6 +81868,7 @@ zij
 de
 menschen
 dan
+
 zoo
 foppen
 en
@@ -81770,6 +82121,7 @@ huisje
 verhuurd
 hebt
 -
+
 -
 Wattie
 doet
@@ -81974,6 +82326,7 @@ Van
 Baalen
 en
 Co
+​
 ging
 vervullen
 Daar
@@ -82016,6 +82369,7 @@ verliefd
 naar
 bed
 ging
+
 Zestiende
 hoofdstuk
 Waarin
@@ -82488,6 +82842,7 @@ minder
 de
 aandacht
 der
+
 meer
 aanzienlijken
 onder
@@ -82726,6 +83081,7 @@ door
 zijn
 aandoeningen
 overstelpt
+
 dat
 hij
 eindelijk
@@ -82981,6 +83337,7 @@ zullende
 ondernemen
 de
 persoon
+
 die
 hem
 toevallig
@@ -83246,6 +83603,7 @@ op
 nieuw
 beslaan
 -
+
 Op
 de
 beide
@@ -83493,6 +83851,7 @@ schijnbaar
 geheel
 andere
 zaken
+
 in
 het
 hoofd
@@ -83749,6 +84108,7 @@ negotie
 gedaan
 heeft
 -
+
 -
 Wel
 mijn
@@ -84010,6 +84370,7 @@ als
 de
 boeren
 zeide
+
 Tante
 altijd
 klagen
@@ -84250,6 +84611,7 @@ twist
 tusschen
 de
 Ingelanden
+
 en
 het
 Zandpad
@@ -84494,6 +84856,7 @@ alles
 kwam
 toch
 niets
+
 bij
 hetgeen
 ik
@@ -84743,6 +85106,7 @@ zullen
 wij
 weldra
 hooren
+
 zei
 doove
 Tijs
@@ -85010,6 +85374,7 @@ zoôn
 regen
 gehoord
 vroeg
+
 Sander
 Sander
 was
@@ -85274,6 +85639,7 @@ en
 te
 draaien
 als
+
 zwarte
 rook
 die
@@ -86142,6 +86508,7 @@ leed
 geen
 half
 uur
+
 of
 wij
 stonden
@@ -86416,6 +86783,7 @@ dat
 zoo
 ongeveer
 op
+
 12
 graden
 N
@@ -86720,6 +87088,7 @@ denk
 ik
 er
 ook
+
 over
 zei
 hij
@@ -87009,6 +87378,7 @@ de
 vlag
 van
 Spanje
+
 waaien
 en
 dadelijk
@@ -87296,6 +87666,7 @@ ik
 nooit
 ontmoet
 -
+
 -
 Ja
 zeide
@@ -87555,6 +87926,7 @@ mijn
 eerste
 stuurman
 plach
+
 te
 zeggen
 als
@@ -87839,6 +88211,7 @@ zich
 stil
 te
 houen
+
 ik
 riep
 al
@@ -88112,6 +88485,7 @@ voren
 van
 elkander
 gespleten
+
 overal
 groeiden
 er
@@ -88405,6 +88779,7 @@ geen
 mooi
 onnoodig
 was
+
 want
 al
 hadden
@@ -88685,6 +89060,7 @@ schrijven
 Hier
 zijn
 de
+
 twee
 Hollanders
 Papa
@@ -88921,6 +89297,7 @@ dochter
 van
 een
 rooverkaptein
+
 Nu
 dat
 is
@@ -89197,6 +89574,7 @@ zou
 ik
 u
 kunnen
+
 overtuigen
 dat
 dit
@@ -89476,6 +89854,7 @@ gehangen
 worden
 en
 daarom
+
 dien
 ik
 mijn
@@ -90035,6 +90414,7 @@ gekomen
 ben
 van
 mijn
+
 bezoeken
 zalje
 geen
@@ -90321,6 +90701,7 @@ er
 een
 paar
 naast
+
 mij
 komen
 zitten
@@ -90619,6 +91000,7 @@ mij
 nu
 naar
 zeemansmanier
+
 aan
 de
 ra
@@ -91186,6 +91568,7 @@ van
 een
 anderen
 zeeroover
+
 die
 onder
 den
@@ -91423,6 +91806,7 @@ laatsten
 te
 vragen
 mij
+
 nader
 te
 beschrijven
@@ -91670,6 +92054,7 @@ ook
 samen
 om
 mij
+
 verkeerde
 vermoedens
 jegens
@@ -91926,6 +92311,7 @@ reeds
 hernieuwd
 zeide
 ik
+
 Lodewijk
 zag
 mij
@@ -92172,6 +92558,7 @@ smakelijk
 niet
 krijgen
 -
+
 -
 Zeg
 dat
@@ -92441,6 +92828,7 @@ wat
 hij
 had
 te
+
 beklagen
 Hetgeen
 de
@@ -92705,6 +93093,7 @@ Baas
 Roggeveld
 woont
 -
+
 -
 En
 komt
@@ -92784,6 +93173,7 @@ Piet
 in
 propria
 persona
+
 Zeventiende
 hoofdstuk
 Verhalende
@@ -92980,6 +93370,7 @@ wil
 het
 gevaar
 niet
+
 loopen
 van
 t
@@ -93235,6 +93626,7 @@ ik
 in
 wat
 hebt
+
 gij
 te
 maken
@@ -93481,6 +93873,7 @@ van
 Schipper
 Slingertouw
 met
+
 wien
 ik
 als
@@ -93738,6 +94131,7 @@ verlaten
 zoude
 hij
 waarschijnlijk
+
 in
 staat
 zijn
@@ -93999,6 +94393,7 @@ begeert
 gij
 hem
 niet
+
 het
 is
 wel
@@ -94233,6 +94628,7 @@ ik
 maar
 zoo
 de
+
 goede
 man
 den
@@ -94483,6 +94879,7 @@ op
 reis
 Wij
 hadden
+
 met
 tegenspoeden
 van
@@ -94756,6 +95153,7 @@ gedurig
 snikken
 en
 met
+
 een
 bevende
 stem
@@ -95003,6 +95401,7 @@ bleef
 Sander
 met
 een
+
 open
 mond
 aanstaren
@@ -95232,6 +95631,7 @@ Neef
 zeide
 Tante
 toen
+
 ik
 na
 den
@@ -95462,6 +95862,7 @@ t
 u
 belieft
 -
+
 -
 Ik
 zeide
@@ -95708,6 +96109,7 @@ een
 eind
 vooruit
 met
+
 den
 Heer
 Blaek
@@ -95963,6 +96365,7 @@ nog
 eens
 zoude
 probeeren
+
 Te
 huis
 gekeerd
@@ -96206,6 +96609,7 @@ de
 Heer
 Blaek
 terwijl
+
 hij
 moeite
 had
@@ -96455,6 +96859,7 @@ dat
 de
 beschrijving
 daarvan
+
 eenigzins
 belangrijk
 voor
@@ -96535,6 +96940,7 @@ namen
 en
 Heizicht
 verlieten
+
 Achttiende
 hoofdstuk
 Waarin
@@ -96732,6 +97138,7 @@ opgeruimde
 stemming
 te
 huis
+
 kwam
 Na
 mijn
@@ -96988,6 +97395,7 @@ zijn
 plaats
 of
 zijn
+
 werk
 te
 verlaten
@@ -97049,6 +97457,7 @@ Heinrich
 Haspel
 en
 Co
+​
 tot
 Hamburg
 schrijven
@@ -97070,6 +97479,7 @@ op
 Frankfort
 a
 85
+​
 per
 florijn
 van
@@ -97085,6 +97495,7 @@ dat
 wij
 a
 84
+​
 op
 Frankfort
 kunnen
@@ -97139,6 +97550,7 @@ te
 remitteren
 a
 110
+​
 per
 dukaat
 de
@@ -97522,6 +97934,7 @@ gulden
 in
 t
 water
+
 zeide
 van
 Baalen
@@ -97766,6 +98179,7 @@ ik
 mij
 bedrogen
 en
+
 hoe
 aangenaam
 vond
@@ -98042,6 +98456,7 @@ verzocht
 ik
 verlof
 aan
+
 van
 Baalen
 dien
@@ -98302,6 +98717,7 @@ waar
 UEd
 van
 spreekt
+
 ik
 betuig
 u
@@ -98540,6 +98956,7 @@ Smethof
 voor
 mij
 terwijl
+
 Heynsz
 mijn
 huisheer
@@ -98820,6 +99237,7 @@ geluk
 mee
 wensch
 Kenje
+
 dien
 man
 vroeg
@@ -99070,6 +99488,7 @@ begrijp
 er
 niets
 van
+
 -
 En
 mag
@@ -99318,6 +99737,7 @@ van
 mij
 hier
 ongeroepen
+
 wijsheid
 te
 willen
@@ -99588,6 +100008,7 @@ Is
 zeker
 wel
 wat
+
 vermetel
 van
 mij
@@ -99833,6 +100254,7 @@ blijven
 en
 ons
 de
+
 koffij
 sturen
 -
@@ -100087,6 +100509,7 @@ te
 Amsterdam
 nog
 geen
+
 voet
 over
 den
@@ -100330,6 +100753,7 @@ in
 tijds
 aanwezig
 te
+
 zullen
 zijn
 Toen
@@ -100586,6 +101010,7 @@ hoofd
 samenpakten
 Maar
 mijn
+
 ongerustheid
 moest
 nog
@@ -101131,6 +101556,7 @@ gebroken
 blompot
 willen
 verwedden
+
 dat
 gij
 gelijk
@@ -101195,6 +101621,7 @@ van
 Uwe
 Zuster
 Susanna
+​
 De
 mededeeling
 van
@@ -101395,6 +101822,7 @@ bedrijf
 te
 verlaten
 Bidden
+
 wij
 liever
 voor
@@ -101629,6 +102057,7 @@ naar
 ik
 meen
 -
+
 -
 Ja
 Tante
@@ -101896,6 +102325,7 @@ te
 nemen
 in
 de
+
 stichtelijke
 onderwijzing
 die
@@ -102117,6 +102547,7 @@ Heer
 te
 ontslaan
 -
+
 -
 Ik
 heb
@@ -102382,6 +102813,7 @@ vervloeking
 ware
 en
 daar
+
 staat
 geschreven
 gij
@@ -102625,6 +103057,7 @@ gij
 wellicht
 tot
 de
+
 zoodanigen
 die
 talmende
@@ -103145,6 +103578,7 @@ in
 te
 volgen
 -
+
 Tante
 trok
 bij
@@ -103393,6 +103827,7 @@ haar
 werk
 in
 de
+
 hand
 en
 de
@@ -103642,6 +104077,7 @@ wel
 dat
 zoude
 wel
+
 ongelukkig
 zijn
 Het
@@ -103897,6 +104333,7 @@ geheel
 vertrouwen
 schonk
 aan
+
 Tante
 die
 het
@@ -104157,11 +104594,13 @@ aan
 haar
 vrome
 bezigheid
+​
 einde
 van
 het
 eerste
 deel
+
 Tweede
 deel
 Negentiende
@@ -104613,6 +105052,7 @@ voet
 van
 een
 dier
+
 lof-
 of
 klinkdichten
@@ -104855,6 +105295,7 @@ en
 vereenigde
 de
 liefelijke
+
 weelderigheid
 van
 Flaccus
@@ -105102,6 +105543,7 @@ aan
 een
 der
 anderen
+
 hoogeren
 lof
 te
@@ -105364,6 +105806,7 @@ een
 gerust
 geweten
 toe
+
 Heynsz
 betoonde
 in
@@ -105613,6 +106056,7 @@ getuigen
 zeide
 Helding
 onze
+
 vriend
 Heynsz
 heeft
@@ -106090,6 +106534,7 @@ Koning
 die
 voeren
 mag
+
 Toen
 keek
 hij
@@ -106368,6 +106813,7 @@ de
 Keizerlijke
 en
 Spaansche
+
 gezanten
 beide
 zouden
@@ -106589,6 +107035,7 @@ rijmen
 vervat
 toonde
 genoegzaam
+
 aan
 dat
 de
@@ -106844,6 +107291,7 @@ hunner
 dichtvruchten
 nadeel
 sticht
+
 of
 wanneer
 zij
@@ -107100,6 +107548,7 @@ van
 eer
 want
 het
+
 was
 aan
 een
@@ -107347,6 +107796,7 @@ mij
 een
 vierregelig
 vaersje
+
 te
 binnen
 dat
@@ -107593,6 +108043,7 @@ den
 beroemden
 Cartouche
 -
+
 -
 Neen
 neen
@@ -107876,6 +108327,7 @@ of
 liever
 lag
 zijn
+
 vrouw
 want
 zij
@@ -108168,6 +108620,7 @@ en
 een
 stuk
 van
+
 het
 dak
 tusschen
@@ -108460,6 +108913,7 @@ mijn
 voorbeeld
 Ik
 dacht
+
 wij
 zouden
 nu
@@ -108742,6 +109196,7 @@ dat
 ik
 bij
 mij
+
 had
 geene
 papieren
@@ -109277,6 +109732,7 @@ in
 den
 leunstoel
 welke
+
 hem
 werd
 aangeschoven
@@ -109516,6 +109972,7 @@ onzen
 burgerstand
 veelal
 eigen
+
 is
 mijn
 Heer
@@ -109764,6 +110221,7 @@ werkelijk
 meenden
 dat
 Cartouche
+
 uit
 de
 andere
@@ -109935,6 +110393,7 @@ onopgemerkt
 de
 deur
 uit
+
 Twintigste
 hoofdstuk
 Waarin
@@ -110139,6 +110598,7 @@ haar
 te
 gaan
 zitten
+
 terwijl
 zij
 een
@@ -110661,6 +111121,7 @@ komt
 Alleen
 uit
 zijn
+
 bezorgdheid
 omtrent
 mij
@@ -110917,6 +111378,7 @@ o
 het
 ergste
 lot
+
 ware
 minder
 onlijdelijk
@@ -111170,6 +111632,7 @@ ten
 huize
 mijner
 tante
+
 naar
 ik
 geloof
@@ -111433,6 +111896,7 @@ ben
 diep
 ongelukkig
 -
+
 Hier
 zegevierde
 de
@@ -111685,6 +112149,7 @@ gij
 hadt
 mij
 zoo
+
 vroeg
 niet
 verwacht
@@ -111924,6 +112389,7 @@ zij
 hem
 omklemde
 wat
+
 hebt
 gij
 verricht
@@ -112433,6 +112899,7 @@ de
 fijnst
 gesponnen
 list
+
 Ik
 was
 Amelia
@@ -112956,6 +113423,7 @@ Amelia
 al
 misleidt
 gij
+
 Heynsz
 zijt
 gij
@@ -113720,6 +114188,7 @@ de
 valsche
 stelling
 waarin
+
 mij
 deze
 lastige
@@ -113984,6 +114453,7 @@ stond
 nog
 op
 de
+
 tafel
 en
 mijn
@@ -114235,6 +114705,7 @@ beneden
 mij
 vertrokken
 waande
+
 -
 Ik
 heb
@@ -114498,6 +114969,7 @@ en
 zich
 tot
 mij
+
 wendende
 slaap
 wel
@@ -115008,6 +115480,7 @@ maken
 op
 het
 gevaarlijke
+
 om
 zich
 tot
@@ -115243,6 +115716,7 @@ als
 een
 voorbeeld
 -
+
 Gij
 weet
 te
@@ -115496,6 +115970,7 @@ stilzwijgen
 zult
 billijken
 -
+
 -
 Dan
 ben
@@ -115673,6 +116148,7 @@ zich
 had
 laten
 verschalken
+
 Een-en-twintigste
 hoofdstuk
 Waarin
@@ -115893,6 +116369,7 @@ ons
 aan
 de
 deur
+
 verwelkomde
 niemand
 anders
@@ -116121,6 +116598,7 @@ haalde
 de
 schouders
 op
+
 och
 Mevrouw
 zeide
@@ -116376,6 +116854,7 @@ dat
 UEd
 hier
 laatst
+
 eslapen
 heit
 en
@@ -116634,6 +117113,7 @@ an
 gheen
 dijt
 rijk
+
 -
 Foei
 zeide
@@ -116902,6 +117382,7 @@ wrevelig
 dat
 ik
 mij
+
 bekommer
 over
 hetgeen
@@ -117163,6 +117644,7 @@ over
 zulk
 een
 onderwerp
+
 -
 Gij
 ziet
@@ -117415,6 +117897,7 @@ wij
 geen
 koffij
 -
+
 -
 Och
 t
@@ -117663,6 +118146,7 @@ met
 uw
 oom
 van
+
 Bempden
 trouwde
 was
@@ -117922,6 +118406,7 @@ zeedienst
 gekomen
 en
 een
+
 groot
 Heer
 geworden
@@ -118205,6 +118690,7 @@ denk
 ik
 van
 zijn
+
 wensch
 te
 vervullen
@@ -118691,6 +119177,7 @@ er
 goed
 door
 -
+
 -
 O
 Het
@@ -118931,6 +119418,7 @@ zulke
 rare
 kennissen
 Maar
+
 ja
 de
 een
@@ -119158,6 +119646,7 @@ maakte
 ick
 pin
 zeer
+
 verheugd
 die
 eere
@@ -119396,6 +119885,7 @@ en
 dan
 naar
 huis
+
 -
 Wel
 Mevrouw
@@ -119635,6 +120125,7 @@ over
 de
 twee
 nieuwe
+
 personaadjen
 met
 welke
@@ -120150,6 +120641,7 @@ dom
 of
 ongepast
 ja
+
 schoon
 hij
 vaak
@@ -120278,6 +120770,7 @@ bij
 hem
 komen
 doorbrengen
+
 Twee-en-twintigste
 hoofdstuk
 Hetwelk
@@ -120488,6 +120981,7 @@ ik
 an
 Plaek
 kezegd
+
 ep
 dat
 hij
@@ -120749,6 +121243,7 @@ die
 toch
 uit
 een
+
 minderen
 stand
 was
@@ -120989,6 +121484,7 @@ lekker
 eten
 of
 drinken
+
 of
 breekt
 men
@@ -121231,6 +121727,7 @@ ik
 bijna
 vergeefs
 een
+
 woordje
 poogde
 tusschen
@@ -121478,6 +121975,7 @@ mij
 niet
 doen
 -
+
 -
 Maar
 mijn
@@ -121737,6 +122235,7 @@ aangewakkerd
 de
 golven
 kliefde
+
 Wat
 mij
 betreft
@@ -121986,6 +122485,7 @@ in
 t
 gezicht
 -
+
 -
 Haar
 kijk
@@ -122231,6 +122731,7 @@ bij
 ons
 allen
 gevonden
+
 had
 zie
 eens
@@ -122510,6 +123011,7 @@ ontsteltenis
 over
 dit
 bericht
+
 -
 Wel
 ja
@@ -122762,6 +123264,7 @@ riep
 Weinstübe
 set
 mihr
+
 aus
 ich
 wil
@@ -123015,6 +123518,7 @@ zich
 heen
 ziende
 te
+
 Muiden
 kunnen
 wij
@@ -123283,6 +123787,7 @@ ergens
 zijn
 wij
 -
+
 -
 Wij
 liggen
@@ -123518,6 +124023,7 @@ zijdelingschen
 blik
 op
 Weinstübe
+
 -
 Ja
 dat
@@ -123765,6 +124271,7 @@ dat
 Lodewijk
 niet
 opdaagde
+
 -
 Die
 zit
@@ -124011,6 +124518,7 @@ er
 vies
 van
 -
+
 Weinstübe
 poogde
 op
@@ -124254,6 +124762,7 @@ het
 roer
 passen
 -
+
 Maar
 het
 was
@@ -124756,6 +125265,7 @@ Er
 zwerven
 hier
 altijd
+
 zooveel
 visschers
 rond
@@ -125253,6 +125763,7 @@ vaartuig
 op
 zijde
 ging
+
 -
 O
 God
@@ -125515,6 +126026,7 @@ vaartuig
 een
 beweging
 onderging
+
 als
 werd
 het
@@ -125584,6 +126096,7 @@ in
 het
 slijk
 vast
+
 Drie-en-twintigste
 hoofdstuk
 Vermeldende
@@ -125772,6 +126285,7 @@ worden
 bij
 t
 walletje
+
 langs
 zeide
 Klaas
@@ -126249,6 +126763,7 @@ herhaalde
 Klaas
 zich
 ter
+
 zijde
 begevende
 hm
@@ -126709,6 +127224,7 @@ où
 diantre
 est-il
 -
+
 -
 Ja
 waar
@@ -126971,6 +127487,7 @@ te
 kunnen
 onderscheiden
 Klaas
+
 licht
 eens
 bij
@@ -127230,6 +127747,7 @@ op
 de
 geschikst
 bevondene
+
 plaats
 en
 de
@@ -127753,6 +128271,7 @@ afstand
 had
 kunnen
 hooren
+
 Eindelijk
 werd
 er
@@ -127985,6 +128504,7 @@ geforceerd
 worden
 vroeg
 Reynhove
+
 Het
 hek
 was
@@ -128240,6 +128760,7 @@ zijn
 riep
 ik
 wederom
+
 -
 Wees
 toch
@@ -128488,6 +129009,7 @@ was
 gaan
 loopen
 -
+
 -
 Jae
 Kees
@@ -128747,6 +129269,7 @@ naar
 Heizicht
 of
 naar
+
 de
 hoeve
 van
@@ -129019,6 +129542,7 @@ indedaad
 zeide
 Reynhove
 dat
+
 uw
 positie
 verre
@@ -129269,6 +129793,7 @@ ik
 ook
 Tante
 -
+
 -
 En
 ik
@@ -129515,6 +130040,7 @@ daar
 nog
 bevindt
 -
+
 -
 Goed
 overlegd
@@ -129742,6 +130268,7 @@ zeide
 ik
 mij
 buigende
+
 -
 En
 dan
@@ -130001,6 +130528,7 @@ en
 hare
 liefdevolle
 woorden
+
 mij
 tusschen
 het
@@ -130147,6 +130675,7 @@ van
 een
 stevig
 ontbijt
+
 Vier-en-twintigste
 hoofdstuk
 Hetwelk
@@ -130353,6 +130882,7 @@ doen
 mijn
 Heer
 Huyck
+
 van
 zoo
 kort
@@ -130817,6 +131347,7 @@ al
 En
 een
 spotachtigen
+
 blik
 op
 ons
@@ -131054,6 +131585,7 @@ wij
 het
 gelaten
 hadden
+
 -
 Wij
 spraken
@@ -131298,6 +131830,7 @@ zal
 -
 Dezelfde
 stilte
+
 -
 Ik
 geloof
@@ -131530,6 +132063,7 @@ in
 de
 ooren
 ruischen
+
 Ik
 zoude
 echter
@@ -131776,6 +132310,7 @@ geloof
 dat
 dit
 een
+
 weinig
 bezijden
 de
@@ -132024,6 +132559,7 @@ hij
 iets
 tegen
 mijn
+
 persoon
 of
 familie
@@ -132299,6 +132835,7 @@ over
 en
 weer
 geen
+
 geneigdheid
 gevoelt
 om
@@ -132795,6 +133332,7 @@ nicht
 was
 gesteld
 -
+
 Onder
 dit
 praten
@@ -133049,6 +133587,7 @@ Intusschen
 wisten
 wij
 allen
+
 zeer
 goed
 dat
@@ -133313,6 +133852,7 @@ slapen
 te
 zetten
 Susanna
+
 die
 niettegenstaande
 zij
@@ -133390,6 +133930,7 @@ gerusten
 slaap
 lag
 gedompeld
+
 Vijf-en-twintigste
 hoofdstuk
 Hetwelk
@@ -133614,6 +134155,7 @@ de
 Wijs
 -
 ik
+
 heb
 nog
 al
@@ -133871,6 +134413,7 @@ verder
 tegen
 kan
 inbrengen
+
 Zijn
 vader
 was
@@ -133898,6 +134441,7 @@ Willem
 Bartelsz
 en
 Co
+​
 te
 Enkhuizen
 schrijven
@@ -134031,6 +134575,7 @@ Willem
 Bartelsz
 en
 Co
+​
 staat
 ter
 goeder
@@ -134131,6 +134676,7 @@ mij
 zeide
 van
 Baalen
+
 zoude
 hij
 er
@@ -134383,6 +134929,7 @@ behooren
 te
 vervullen
 -
+
 Hoe
 zegende
 ik
@@ -134886,6 +135433,7 @@ zij
 niet
 Ik
 heb
+
 altijd
 veel
 goeds
@@ -135149,6 +135697,7 @@ verwacht
 hernam
 hij
 dat
+
 gij
 een
 dergelijken
@@ -135407,6 +135956,7 @@ belet
 doen
 vragen
 -
+
 -
 Vader
 riep
@@ -135655,6 +136205,7 @@ er
 sommige
 vergeten
 -
+
 -
 UEd
 zoudt
@@ -135899,6 +136450,7 @@ Nu
 ik
 zal
 eens
+
 zien
 of
 zij
@@ -136156,6 +136708,7 @@ doet
 zij
 zoo
 mal
+
 niet
 van
 de
@@ -136641,6 +137194,7 @@ terugkomst
 mijns
 vaders
 verbeidende
+
 Er
 verliep
 echter
@@ -136903,6 +137457,7 @@ haar
 te
 waken
 Gij
+
 hebt
 haar
 reeds
@@ -137143,6 +137698,7 @@ te
 ontfangen
 daar
 men
+
 hem
 reeds
 gezegd
@@ -137382,6 +137938,7 @@ den
 spot
 mede
 zeide
+
 Reynhove
 een
 weinig
@@ -137626,6 +138183,7 @@ voor
 Weinstübe
 zeide
 Susanna
+
 -
 Ik
 kan
@@ -137878,6 +138436,7 @@ antwoord
 bedwingen
 dat
 haar
+
 op
 den
 tong
@@ -138134,6 +138693,7 @@ tot
 last
 en
 maakte
+
 hun
 toestand
 nog
@@ -138398,6 +138958,7 @@ het
 weinigje
 dat
 ik
+
 van
 u
 gezien
@@ -138638,6 +139199,7 @@ zoo
 Papa
 zeide
 Susanna
+
 die
 ik
 alreeds
@@ -138858,6 +139420,7 @@ niets
 kunt
 zeggen
 dan
+
 hetgeen
 door
 mij
@@ -139099,6 +139662,7 @@ binnen
 niet
 mede
 voor
+
 den
 dag
 komen
@@ -139361,6 +139925,7 @@ Lodewijk
 Blaek
 omgaat
 -
+
 -
 En
 dat
@@ -139615,6 +140180,7 @@ ik
 biecht
 zuiver
 op
+
 want
 ik
 bedrieg
@@ -139869,6 +140435,7 @@ terstond
 hoe
 verkeerd
 ik
+
 gedaan
 had
 van
@@ -140120,6 +140687,7 @@ te
 vertellen
 Zuster
 zeide
+
 mijn
 vader
 dat
@@ -140350,6 +140918,7 @@ haar
 voornamen
 genoemd
 -
+
 -
 Dat
 is
@@ -140494,6 +141063,7 @@ vader
 hierbij
 rusten
 bleef
+
 Zes-en
 -
 twintigste
@@ -140690,6 +141260,7 @@ beletten
 die
 te
 gevoelen
+
 Maar
 toen
 ik
@@ -140937,6 +141508,7 @@ slechts
 onderwerp
 de
 edele
+
 rijkunst
 De
 verdiensten
@@ -141197,6 +141769,7 @@ wien
 wed
 jij
 -
+
 Voor
 geen
 van
@@ -141478,6 +142051,7 @@ op
 den
 langen
 weg
+
 en
 ze
 allen
@@ -141749,6 +142323,7 @@ op
 en
 keek
 den
+
 weg
 op
 hoewel
@@ -141999,6 +142574,7 @@ menigte
 en
 opende
 zich
+
 voor
 het
 rijtuig
@@ -142269,6 +142845,7 @@ t
 wil
 t
 is
+
 beter
 dat
 ze
@@ -142522,6 +143099,7 @@ de
 klaagliederen
 van
 Krijn
+
 Jaspersz
 te
 luisteren
@@ -142780,6 +143358,7 @@ alleen
 had
 gelaten
 maar
+
 eensdeels
 deed
 een
@@ -143034,6 +143613,7 @@ genoeg
 gescheeld
 zeide
 Lodewijk
+
 ja
 laten
 zij
@@ -143270,6 +143850,7 @@ herhaalde
 Reynhove
 met
 verbazing
+
 -
 Wat
 was
@@ -143527,6 +144108,7 @@ te
 schieten
 -
 Maar
+
 of
 ik
 blij
@@ -143799,6 +144381,7 @@ Zeg
 eens
 Sinjeur
 Velters
+
 zeide
 ik
 toen
@@ -144095,6 +144678,7 @@ zachtjens
 ter
 zijde
 trok
+
 heeft
 het
 paard
@@ -144389,6 +144973,7 @@ hoe
 oud
 is
 het
+
 beest
 wel
 vroeg
@@ -144673,6 +145258,7 @@ want
 van
 daag
 of
+
 morgen
 rijdt
 de
@@ -144914,6 +145500,7 @@ koeltjens
 dan
 heb
 ik
+
 er
 vrede
 meê
@@ -145180,6 +145767,7 @@ en
 het
 gezicht
 zoo
+
 rood
 als
 een
@@ -145663,6 +146251,7 @@ en
 drie
 Kornetten
 in
+
 arrest
 zijn
 gezonden
@@ -145900,6 +146489,7 @@ hervatte
 Contour
 de
 maker
+
 van
 dat
 lieve
@@ -146137,6 +146727,7 @@ in
 vlammen
 zet
 -
+
 -
 Precies
 zeide
@@ -146361,6 +146952,7 @@ gaan
 wij
 ook
 -
+
 -
 Als
 de
@@ -146593,6 +147185,7 @@ wit
 als
 elpenbeen
 -
+
 Toen
 zei
 zij
@@ -146835,6 +147428,7 @@ een
 gelegenheid
 als
 deze
+
 dorst
 uitspreken
 Dan
@@ -147090,6 +147684,7 @@ een
 diergelijk
 gezelschap
 tot
+
 onderwerp
 van
 een
@@ -147356,6 +147951,7 @@ kinderpraat
 moet
 bestempelen
 -
+
 -
 Wat
 riep
@@ -147579,6 +148175,7 @@ van
 friendschap
 trinken
 -
+
 -
 Met
 genoegen
@@ -147817,6 +148414,7 @@ lief
 meisje
 hooren
 spreken
+
 of
 ik
 denk
@@ -148071,6 +148669,7 @@ oogenblik
 iets
 ernstigs
 iets
+
 waardigs
 in
 zijn
@@ -148212,6 +148811,7 @@ verlieten
 wij
 de
 herberg
+
 Zeven-en-twintigste
 hoofdstuk
 Waarin
@@ -148405,6 +149005,7 @@ komen
 Reeds
 had
 ik
+
 een
 paar
 keeren
@@ -148674,6 +149275,7 @@ dood
 bekoopen
 terwijl
 zij
+
 buiten
 deze
 dwaasheden
@@ -148906,6 +149508,7 @@ paardekoopers-zedekunde
 toe
 brengt
 -
+
 -
 Ik
 verzeker
@@ -149161,6 +149764,7 @@ oude
 Heer
 Blaek
 -
+
 -
 Indedaad
 En
@@ -149431,6 +150035,7 @@ gij
 weet
 het
 niet
+
 waarom
 ik
 zoo
@@ -149694,6 +150299,7 @@ mij
 aangenaam
 ware
 -
+
 -
 Denkt
 gij
@@ -149963,6 +150569,7 @@ had
 in
 t
 voorbijgaan
+
 gemerkt
 dat
 de
@@ -150448,6 +151055,7 @@ bevrijdende
 als
 een
 razende
+
 Roeland
 op
 Bos
@@ -150698,6 +151306,7 @@ nimmer
 zal
 approbeeren
 -
+
 -
 Al
 genoeg
@@ -150943,6 +151552,7 @@ altijd
 te
 verlaten
 -
+
 -
 Vlei
 u
@@ -151201,6 +151811,7 @@ mij
 zoude
 kunnen
 met
+
 zich
 brengen
 hij
@@ -151451,6 +152062,7 @@ u
 in
 acht
 -
+
 Acht-en-twintigste
 hoofdstuk
 Waarin
@@ -151908,6 +152520,7 @@ Deze
 stelde
 mij
 voor
+
 oogen
 hoe
 dwaas
@@ -152176,6 +152789,7 @@ wel
 wat
 doch
 beloofde
+
 eindelijk
 zulks
 te
@@ -152424,6 +153038,7 @@ gisteren
 avond
 ten
 huize
+
 van
 den
 Portretteur
@@ -152669,6 +153284,7 @@ is
 vroeger
 vertrokken
 -
+
 -
 Ach
 zeide
@@ -153198,6 +153814,7 @@ Heer
 Blaek
 uw
 verdere
+
 kennismaking
 met
 zijn
@@ -153435,6 +154052,7 @@ et
 rixas
 inseruisse
 iuvat
+
 Gij
 ziet
 dat
@@ -153697,6 +154315,7 @@ schatten
 Voortaan
 zullen
 uwe
+
 gangen
 worden
 nagegaan
@@ -153873,6 +154492,7 @@ te
 lezen
 -
 No
+​
 1
 De
 zielverkoopers
@@ -153938,8 +154558,10 @@ worden
 -
 Verder
 -
+
 -
 No
+​
 2
 De
 zoon
@@ -154115,6 +154737,7 @@ zijn
 lijst
 -
 No
+​
 3
 Men
 is
@@ -154176,6 +154799,7 @@ vinden
 -
 -
 No
+​
 4
 Het
 gouden
@@ -154191,6 +154815,7 @@ bij
 Mozes
 Nathans
 Hij
+
 had
 het
 van
@@ -154368,6 +154993,7 @@ hem
 scherp
 aanziende
 No
+​
 1
 Er
 heeft
@@ -154438,6 +155064,7 @@ uw
 permissie
 Die
 zaak
+
 heeft
 gehad
 geen
@@ -154563,6 +155190,7 @@ ten
 einde
 -
 No
+​
 2
 De
 gezegde
@@ -154702,6 +155330,7 @@ uw
 logeergast
 ook
 -
+
 -
 De
 Heer
@@ -154712,6 +155341,7 @@ Deventer
 -
 -
 No
+​
 3
 Zacharias
 Heynsz
@@ -155206,6 +155836,7 @@ wel
 helpen
 zal
 -
+
 -
 Naar
 den
@@ -155456,6 +156087,7 @@ is
 beter
 dat
 UEd
+
 er
 heen
 gaat
@@ -155723,6 +156355,7 @@ bezoek
 hoezeer
 ten
 gevolge
+
 van
 zeer
 prozäische
@@ -155762,6 +156395,7 @@ voorgevoel
 mij
 niet
 bedroog
+
 Negen-en-twintigste
 hoofdstuk
 Vermeldende
@@ -155969,6 +156603,7 @@ en
 opengedaan
 was
 den
+
 Heer
 Jacobus
 Blaek
@@ -156226,6 +156861,7 @@ alles
 behalve
 aangenaam
 was
+
 Hij
 bëantwoordde
 mijn
@@ -156473,6 +157109,7 @@ ik
 uit
 een
 schier
+
 onmerkbaar
 gefronsel
 zijner
@@ -156724,6 +157361,7 @@ om
 onzer
 oude
 vriendschaps
+
 wille
 om
 den
@@ -156988,6 +157626,7 @@ kwalijk
 zal
 nemen
 indien
+
 gij
 mij
 hoe
@@ -157217,6 +157856,7 @@ avond
 gegeven
 heb
 -
+
 -
 Hoe
 wat
@@ -157475,6 +158115,7 @@ hij
 diende
 er
 wel
+
 genoegen
 mede
 te
@@ -157767,6 +158408,7 @@ Heer
 van
 Baalen
 veranderde
+
 Dertigste
 hoofdstuk
 Hetgeen
@@ -158233,6 +158875,7 @@ zeggen
 mijn
 Heer
 Huyck
+
 zeide
 hij
 eenigzins
@@ -158477,6 +159120,7 @@ ik
 bij
 mij
 zelven
+
 -
 Maar
 vervolgde
@@ -158710,6 +159354,7 @@ He
 he
 he
 -
+
 -
 Ja
 zeide
@@ -159254,6 +159899,7 @@ ik
 weer
 goed
 wou
+
 maken
 mij
 toereikte
@@ -159518,6 +160164,7 @@ moogt
 dan
 van
 Beveren
+
 heeten
 of
 niet
@@ -159780,6 +160427,7 @@ uwer
 kamers
 en
 ik
+
 weet
 niet
 dat
@@ -160033,6 +160681,7 @@ verlaten
 en
 nog
 zat
+
 ik
 te
 peinzen
@@ -160279,6 +160928,7 @@ jong
 en
 zonder
 opzicht
+
 ondernomen
 hebt
 Wij
@@ -160554,6 +161204,7 @@ om
 getroffen
 te
 worden
+
 O
 beloof
 mij
@@ -160800,6 +161451,7 @@ zoo
 diep
 zoo
 vreesselijk
+
 vroeg
 mijn
 moeder
@@ -161052,6 +161704,7 @@ ieder
 vergunde
 te
 lezen
+
 -
 In
 allen
@@ -161580,6 +162233,7 @@ hij
 mij
 reeds
 met
+
 een
 paar
 woorden
@@ -161818,6 +162472,7 @@ de
 lantaren
 van
 de
+
 binnenplaats
 invalt
 en
@@ -162078,6 +162733,7 @@ wel
 te
 hokvast
 geworden
+
 zijn
 om
 nog
@@ -162339,6 +162995,7 @@ om
 als
 een
 beereleider
+
 met
 ons
 rond
@@ -162846,6 +163503,7 @@ had
 dat
 zij
 niets
+
 aan
 mij
 had
@@ -163104,6 +163762,7 @@ te
 komen
 opzoeken
 -
+
 -
 Uw
 dienaresse
@@ -163356,6 +164015,7 @@ Jetje
 mij
 dunkt
 niet
+
 zoo
 wel
 als
@@ -163773,6 +164433,7 @@ de
 schuld
 van
 Ds
+​
 Boterbloem
 dat
 de
@@ -163853,6 +164514,7 @@ haar
 afval
 voorgaan
 -
+
 -
 Ik
 geloof
@@ -163869,6 +164531,7 @@ is
 de
 Dijkgraaf
 Mr
+​
 Coenraad
 van
 Vingerhoed
@@ -164344,6 +165007,7 @@ zoo
 bezet
 is
 -
+
 -
 Ja
 dat
@@ -164584,6 +165248,7 @@ te
 laten
 doen
 -
+
 -
 Neen
 dat
@@ -164830,6 +165495,7 @@ dat
 kwelt
 mij
 -
+
 -
 Ik
 wil
@@ -165094,6 +165760,7 @@ dat
 daar
 toch
 iets
+
 achter
 schuilt
 t
@@ -165356,6 +166023,7 @@ goede
 mij
 bewezen
 -
+
 -
 Ga
 zitten
@@ -165609,6 +166277,7 @@ met
 beschaafde
 lieden
 om
+
 te
 gaan
 hij
@@ -165880,6 +166549,7 @@ zonder
 schrik
 maar
 met
+
 verwondering
 en
 ongerustheid
@@ -166131,6 +166801,7 @@ die
 man
 vroeg
 zij
+
 -
 Het
 is
@@ -166365,6 +167036,7 @@ over
 een
 dergelijke
 minachting
+
 van
 zijn
 gezach
@@ -166591,6 +167263,7 @@ de
 deur
 in
 plaatste
+
 Toef
 een
 oogenblik
@@ -166836,6 +167509,7 @@ hoe
 heet
 hij
 -
+
 -
 Hijzelf
 zal
@@ -167083,6 +167757,7 @@ Amsterdam
 doch
 ontfangt
 later
+
 herhaaldelijk
 bezoeken
 van
@@ -167336,6 +168011,7 @@ als
 de
 zetel
 der
+
 Burgervrijheid
 beroemd
 Men
@@ -167576,6 +168252,7 @@ den
 volgenden
 inhoud
 was
+
 -
 Wel
 Edel
@@ -167650,7 +168327,9 @@ Gestr
 Nederige
 Dienaar
 heynsz
+​
 -
+​
 -
 Ik
 vermoedde
@@ -167819,6 +168498,7 @@ uw
 ongeluk
 aanspraak
 heeft
+
 Waarin
 kan
 ik
@@ -168076,6 +168756,7 @@ komen
 dan
 bij
 u
+
 Mejuffrouw
 hernam
 Amelia
@@ -168316,6 +168997,7 @@ is
 vol
 juistheid
 antwoordde
+
 mijn
 vader
 en
@@ -168570,6 +169252,7 @@ den
 Graaf
 heb
 kennis
+
 gemaakt
 zoude
 UEd
@@ -168617,6 +169300,7 @@ meisje
 verliefd
 zijt
 -
+
 Een-en-dertigste
 hoofdstuk
 Waarin
@@ -168798,6 +169482,7 @@ geweest
 en
 heeft
 waar
+
 en
 valsch
 zoo
@@ -169042,6 +169727,7 @@ u
 dan
 gezegd
 -
+
 -
 Ik
 weet
@@ -169320,6 +170006,7 @@ vaders
 huisvesting
 verleent
 -
+
 -
 Wat
 vertelje
@@ -169591,6 +170278,7 @@ zal
 misschien
 uit
 despe-ratie
+​
 met
 haar
 neef
@@ -169874,6 +170562,7 @@ alles
 maar
 een
 benaauwde
+
 droom
 is
 waaruit
@@ -170136,6 +170825,7 @@ man
 te
 handhaven
 dan
+
 behoeft
 men
 slechts
@@ -170655,6 +171345,7 @@ weten
 te
 stellen
 dat
+
 ik
 de
 reputatie
@@ -170913,6 +171604,7 @@ tegen
 onze
 nadere
 kennismaking
+
 was
 plichtmatig
 begreep
@@ -171729,6 +172421,7 @@ heide
 zal
 best
 geschikt
+
 zijn
 om
 aan
@@ -171995,6 +172688,7 @@ Freule
 van
 Lintz
 -
+
 -
 O
 Tantelief
@@ -172261,6 +172955,7 @@ worden
 om
 een
 tent
+
 te
 vormen
 in
@@ -172547,6 +173242,7 @@ je
 vijftigen
 Maar
 daar
+
 is
 rooie
 Els
@@ -172797,6 +173493,7 @@ is
 weer
 hier
 -
+
 -
 Wat
 mompelde
@@ -173042,6 +173739,7 @@ kunnen
 verbranden
 Ik
 weet
+
 waaraan
 ik
 de
@@ -173548,6 +174246,7 @@ vangen
 Ettelijke
 reizen
 opende
+
 hij
 den
 mond
@@ -173785,6 +174484,7 @@ vergen
 onderbrak
 ik
 hem
+
 dat
 ik
 juist
@@ -174051,6 +174751,7 @@ zijn
 genoeg
 schoone
 meisjens
+
 in
 onze
 Nederlanden
@@ -174301,6 +175002,7 @@ te
 laten
 ontsnappen
 -
+
 -
 Ik
 weet
@@ -174533,6 +175235,7 @@ een
 gevoel
 van
 bescheidenheid
+
 weerhield
 mij
 Ik
@@ -175320,6 +176023,7 @@ spoed
 naar
 Heizicht
 terug
+
 Twee-en-dertigste
 hoofdstuk
 Waarin
@@ -175511,6 +176215,7 @@ vrij
 onrustige
 gemoedsbeweging
 onder
+
 de
 eikeboomen
 op
@@ -175782,6 +176487,7 @@ dat
 deze
 op
 zichzelf
+
 weinig
 beteekenende
 woorden
@@ -176037,6 +176743,7 @@ licht
 kantoorzaken
 opgekomen
 zijn
+
 die
 hem
 beletten
@@ -177027,6 +177734,7 @@ dagen
 gehuisd
 heeft
 -
+
 -
 Ik
 Meneer
@@ -177274,6 +177982,7 @@ met
 kwalijk
 nemen
 -
+
 Ondertusschen
 had
 Heynsz
@@ -177515,6 +178224,7 @@ hem
 gisteren
 hier
 zag
+
 het
 mij
 maar
@@ -177764,6 +178474,7 @@ leven
 gered
 heeft
 -
+
 -
 Het
 leven
@@ -178017,6 +178728,7 @@ ze
 zitten
 men
 overal
+
 op
 het
 lijf
@@ -178267,6 +178979,7 @@ zeide
 Heynsz
 mijn
 vader
+
 ter
 zijde
 trekkende
@@ -178513,6 +179226,7 @@ er
 van
 aan
 t
+
 malen
 zijn
 geraakt
@@ -179022,6 +179736,7 @@ om
 te
 zien
 hoe
+
 de
 zaken
 staan
@@ -179264,6 +179979,7 @@ niet
 ik
 gevoel
 mij
+
 gelukkig
 want
 ik
@@ -179723,6 +180439,7 @@ terugtocht
 naar
 Amsterdam
 ondernam
+
 Drie-en-dertigste
 hoofdstuk
 Vermeldende
@@ -179927,6 +180644,7 @@ verwonderd
 toen
 ik
 den
+
 steiger
 langs
 kijkende
@@ -180183,6 +180901,7 @@ waren
 het
 bericht
 bekomen
+
 dat
 zijn
 dochter
@@ -180459,6 +181178,7 @@ te
 herhalen
 gedurende
 onzen
+
 overtocht
 die
 ruim
@@ -180709,6 +181429,7 @@ medewerking
 geneigd
 betoonde
 en
+
 ons
 een
 dienaar
@@ -180964,6 +181685,7 @@ vriend
 Helding
 zeide
 ik
+
 dan
 behoeft
 gij
@@ -181220,6 +181942,7 @@ eenige
 berichten
 bij
 hem
+
 in
 te
 winnen
@@ -181474,6 +182197,7 @@ zoo
 onfortuinige
 Fortuin
 herkende
+
 Aan
 de
 haven
@@ -181744,6 +182468,7 @@ geweest
 een
 wind
 dat
+
 geen
 vier
 heereknechts
@@ -182022,6 +182747,7 @@ voor
 mijn
 persoontje
 -
+
 En
 wie
 is
@@ -182262,6 +182988,7 @@ de
 wijze
 waarop
 hij
+
 mij
 opnam
 te
@@ -182524,6 +183251,7 @@ worden
 welke
 hem
 op
+
 Ter
 Schelling
 riep
@@ -182763,6 +183491,7 @@ ter
 zijde
 bekeek
 -
+
 dat
 zijn
 Amsterdamsche
@@ -182993,6 +183722,7 @@ er
 van
 weet
 -
+
 -
 O
 mijn
@@ -183469,6 +184199,7 @@ gelaat
 met
 beide
 handen
+
 -
 Zoude
 zij
@@ -183701,6 +184432,7 @@ beter
 mijn
 liefste
 -
+
 -
 Zoo
 zijt
@@ -183956,6 +184688,7 @@ voorschrijven
 lief
 te
 hebben
+
 en
 het
 verdriet
@@ -184199,6 +184932,7 @@ zeide
 ik
 terwijl
 op
+
 hetzelfde
 oogenblik
 de
@@ -184459,6 +185193,7 @@ voor
 mijn
 dood
 mijn
+
 vader
 zoude
 terug
@@ -184717,6 +185452,7 @@ zeide
 Helding
 keer
 met
+
 mij
 naar
 huis
@@ -184987,6 +185723,7 @@ mij
 -
 Ween
 niet
+
 Sander
 het
 is
@@ -185262,6 +185999,7 @@ gebroken
 -
 heengaan
 -
+
 Met
 deze
 woorden
@@ -185516,6 +186254,7 @@ vrij
 onverschillig
 is
 -
+
 -
 Ja
 zeide
@@ -185781,6 +186520,7 @@ of
 met
 Gecommitteerde
 Raden
+
 want
 daar
 geven
@@ -186055,6 +186795,7 @@ voor
 onkosten
 -
 Maar
+
 kunnen
 wij
 de
@@ -186314,6 +187055,7 @@ hij
 is
 hier
 zooveel
+
 als
 de
 admiraalswimpel
@@ -186578,6 +187320,7 @@ al
 dan
 niet
 zoude
+
 eerbiedigen
 en
 achtte
@@ -186814,6 +187557,7 @@ Enkhuizen
 -
 nooit
 hier
+
 komen
 -
 geld
@@ -187076,6 +187820,7 @@ wij
 zullen
 zien
 wat
+
 er
 van
 wordt
@@ -187208,6 +187953,7 @@ het
 Maklijk
 Oud
 bevond
+
 Vier-en-dertigste
 hoofdstuk
 Waarin
@@ -187670,6 +188416,7 @@ vent
 met
 zijn
 duffelsch
+
 buis
 hier
 niet
@@ -187930,6 +188677,7 @@ Welnu
 nog
 fraaier
 Hebben
+
 wij
 geen
 afspraak
@@ -188183,6 +188931,7 @@ bot
 te
 vangen
 -
+
 Er
 was
 een
@@ -188716,6 +189465,7 @@ stille
 verklikker
 eworden
 -
+
 -
 Wat
 ik
@@ -188986,6 +189736,7 @@ zoowel
 den
 Kapitein
 van
+
 het
 schip
 als
@@ -189245,6 +189996,7 @@ met
 de
 zieke
 -
+
 -
 Slapjens
 antwoordde
@@ -189522,6 +190274,7 @@ ik
 het
 u
 bekennen
+
 zeide
 Sander
 terwijl
@@ -189797,6 +190550,7 @@ het
 was
 dat
 leven
+
 het
 was
 die
@@ -190058,6 +190812,7 @@ toekomst
 denken
 zoolang
 Zij
+
 ginds
 ligt
 te
@@ -190310,6 +191065,7 @@ heeft
 schuldig
 gemaakt
 -
+
 Aldus
 peinzende
 was
@@ -190581,6 +191337,7 @@ gerust
 ik
 wou
 je
+
 niet
 wakker
 maken
@@ -190834,6 +191591,7 @@ schip
 gingen
 strijken
 -
+
 -
 Met
 onze
@@ -191082,6 +191840,7 @@ aan
 een
 half
 woord
+
 genoeg
 zeide
 Reynszen
@@ -191339,6 +192098,7 @@ zeide
 Pulver
 ja
 dat
+
 is
 geen
 wonder
@@ -191602,6 +192362,7 @@ die
 gij
 mij
 aanbrengt
+
 als
 ik
 ze
@@ -191876,6 +192637,7 @@ Is
 een
 kaerel
 als
+
 een
 boom
 en
@@ -192121,6 +192883,7 @@ geworden
 Niet
 wetende
 in
+
 hoe
 verre
 hun
@@ -192383,6 +193146,7 @@ wij
 hier
 werkelijk
 in
+
 t
 Maklijk
 Oud
@@ -192628,6 +193392,7 @@ hij
 wat
 gij
 bedoelt
+
 Mijn
 naam
 is
@@ -192880,6 +193645,7 @@ uw
 vertrek
 gesproken
 -
+
 -
 Ja
 antwoordde
@@ -193117,6 +193883,7 @@ verzwijgen
 zal
 daar
 een
+
 zijner
 zonen
 nog
@@ -193392,6 +194159,7 @@ weten
 om
 haar
 een
+
 weinig
 in
 de
@@ -193659,6 +194427,7 @@ en
 ik
 was
 straks
+
 zoo
 geheel
 niet
@@ -194053,6 +194822,7 @@ den
 rook
 kon
 snijden
+
 Vijf-en-dertigste
 hoofdstuk
 Waarin
@@ -194244,6 +195014,7 @@ mijn
 vaderland
 Is
 het
+
 dat
 rampzalig
 Graafschap
@@ -194485,6 +195256,7 @@ te
 doen
 onze
 wederontmoeting
+
 biedt
 mij
 een
@@ -194737,6 +195509,7 @@ een
 land
 -
 Provincie
+
 geboren
 was
 -
@@ -194991,6 +195764,7 @@ waren
 toegedaan
 Ik
 had
+
 dit
 vroeger
 bij
@@ -195242,6 +196016,7 @@ na
 mijn
 aankomst
 in
+
 Spanje
 overleden
 na
@@ -195487,6 +196262,7 @@ ik
 in
 de
 nieuwe
+
 waereld
 doorgebracht
 toen
@@ -195752,6 +196528,7 @@ rede
 -
 Gij
 wildet
+
 wraak
 op
 Spanje
@@ -196002,6 +196779,7 @@ ik
 acht
 het
 met
+
 dat
 al
 gelukkig
@@ -196256,6 +197034,7 @@ zonder
 u
 dat
 besluit
+
 waar
 gij
 van
@@ -196514,6 +197293,7 @@ met
 het
 Russische
 hof
+
 Het
 werd
 echter
@@ -196772,6 +197552,7 @@ aanwezig
 te
 zijn
 en
+
 in
 zijn
 koets
@@ -197030,6 +197811,7 @@ gij
 mijn
 Heer
 Huyck
+
 Mejuffrouw
 Blaek
 bemindet
@@ -197282,6 +198064,7 @@ maar
 hij
 moet
 niet
+
 denken
 dat
 men
@@ -197539,6 +198322,7 @@ over
 dit
 onderwerp
 -
+
 -
 Neen
 zeide
@@ -197807,6 +198591,7 @@ kaartje
 te
 spelen
 -
+
 -
 Indedaad
 zeide
@@ -198076,6 +198861,7 @@ beeldwerk
 herkennende
 waar
 het
+
 zilveren
 schuim
 tegen
@@ -198329,6 +199115,7 @@ zoodanig
 aan
 te
 bevelen
+
 -
 Wat
 drommel
@@ -198582,6 +199369,7 @@ Don
 Manöel
 wezen
 daar
+
 de
 Schipper
 zoo
@@ -198706,6 +199494,7 @@ wenschen
 Lodewijk
 Blaek
 -
+
 Zes-en-dertigste
 hoofdstuk
 Waarin
@@ -198901,6 +199690,7 @@ en
 plaatste
 zich
 met
+
 een
 op
 den
@@ -199163,6 +199953,7 @@ Schipper
 gij
 moogt
 ook
+
 wel
 toezien
 of
@@ -199642,6 +200433,7 @@ lang
 afgevergd
 zeide
 ik
+
 indien
 de
 eerbied
@@ -199886,6 +200678,7 @@ mij
 vrij
 onverschillig
 maar
+
 liefst
 vecht
 ik
@@ -200147,6 +200940,7 @@ uitwerking
 welke
 de
 afloop
+
 van
 den
 twist
@@ -200673,6 +201467,7 @@ nadenken
 handelt
 Ik
 bedrieg
+
 mij
 zeer
 of
@@ -200951,6 +201746,7 @@ stil
 aan
 boord
 slechts
+
 een
 enkel
 persoon
@@ -201210,6 +202006,7 @@ uitgenomen
 Amelia
 die
 zich
+
 tegen
 de
 koele
@@ -201458,6 +202255,7 @@ een
 helsche
 list
 verontwaardigd
+
 -
 En
 de
@@ -201697,6 +202495,7 @@ halen
 zijn
 bagaadje
 -
+
 -
 Die
 bagaadje
@@ -201946,6 +202745,7 @@ ons
 in
 de
 herberg
+
 eischte
 een
 glas
@@ -202196,6 +202996,7 @@ zulks
 dadelijk
 aan
 Heynsz
+
 te
 kennen
 gegeven
@@ -202441,6 +203242,7 @@ door
 de
 achterdeur
 binnen
+
 Zeven-en-dertigste
 hoofdstuk
 Waarin
@@ -202615,6 +203417,7 @@ wijl
 onderhielden
 Ik
 bespeurde
+
 intusschen
 uit
 de
@@ -202845,6 +203648,7 @@ gewone
 gevatheid
 en
 tegenwoordigheid
+
 van
 geest
 voor
@@ -203099,6 +203903,7 @@ privilegiën
 te
 vernietigen
 welke
+
 dit
 eiland
 bevorens
@@ -203340,6 +204145,7 @@ duivel
 schreeuwde
 Heynsz
 Ter
+
 Schelling
 zal
 geen
@@ -203854,6 +204660,7 @@ een
 vader
 te
 moeten
+
 zeggen
 haar
 dood
@@ -204097,6 +204904,7 @@ vroeg
 ik
 eenigzins
 verwonderd
+
 -
 Hij
 zeit
@@ -204350,6 +205158,7 @@ deze
 vervoerd
 werd
 besloten
+
 naar
 boord
 te
@@ -204598,6 +205407,7 @@ gehoor
 gegeven
 wellicht
 ware
+
 ook
 uw
 lot
@@ -205091,6 +205901,7 @@ voor
 den
 Heer
 van
+
 Lintz
 zeide
 ik
@@ -205347,6 +206158,7 @@ gedachten
 -
 Ik
 hoop
+
 zeide
 van
 Lintz
@@ -205595,6 +206407,7 @@ verzuimen
 zoude
 mij
 te
+
 wekken
 Den
 volgenden
@@ -205851,6 +206664,7 @@ in
 een
 laagte
 tusschen
+
 de
 duinen
 een
@@ -206115,6 +206929,7 @@ in
 de
 nabijheid
 opdeed
+
 toen
 ik
 plotslings
@@ -206352,6 +207167,7 @@ elboog
 aanstootten
 of
 toewenkten
+
 -
 Helpt
 mij
@@ -206600,6 +207416,7 @@ steek
 te
 laten
 -
+
 Op
 dit
 oogenblik
@@ -206855,6 +207672,7 @@ lijkschouwing
 en
 begaf
 zich
+
 met
 Reynszen
 en
@@ -207090,6 +207908,7 @@ was
 uw
 moordenaar
 -
+
 De
 gewonde
 zag
@@ -207249,6 +208068,7 @@ naar
 het
 dorp
 trok
+
 Acht-en-dertigste
 hoofdstuk
 Waarin
@@ -207431,6 +208251,7 @@ merken
 werd
 mij
 gevraagd
+
 -
 Zeer
 veel
@@ -207675,6 +208496,7 @@ als
 iemand
 die
 geen
+
 raad
 weet
 Maar
@@ -207908,6 +208730,7 @@ maakten
 dat
 er
 tusschen
+
 deze
 beiden
 een
@@ -208145,6 +208968,7 @@ in
 de
 hand
 -
+
 duo
 visi
 rixari
@@ -208394,6 +209218,7 @@ van
 in
 wezen
 waren
+
 een
 stoel
 met
@@ -208654,6 +209479,7 @@ die
 hun
 grijze
 hairen
+
 met
 schande
 bedekte
@@ -208901,6 +209727,7 @@ ik
 met
 bittere
 teleurstelling
+
 -
 Wat
 zal
@@ -209120,6 +209947,7 @@ Andries
 moet
 variëeren
 -
+
 -
 Dat
 doen
@@ -209390,6 +210218,7 @@ ik
 al
 gezegd
 aan
+
 Reynszen
 t
 Is
@@ -209652,6 +210481,7 @@ zijn
 voorzichtigheid
 en
 zijne
+
 wijze
 van
 de
@@ -209928,6 +210758,7 @@ ontfangt
 betere
 meubelen
 -
+
 Heynsz
 verliet
 mij
@@ -210172,6 +211003,7 @@ minst
 te
 verwachten
 -
+
 -
 En
 ik
@@ -210420,6 +211252,7 @@ toch
 ordelijk
 verhalen
 -
+
 -
 En
 mijn
@@ -210651,6 +211484,7 @@ zijn
 raad
 gevolgd
 en
+
 ben
 in
 politieke
@@ -210913,6 +211747,7 @@ heb
 ernstiger
 zaken
 te
+
 verhandelen
 Ik
 vond
@@ -211191,6 +212026,7 @@ het
 ongeval
 zjjns
 zoons
+
 te
 verhalen
 -
@@ -211455,6 +212291,7 @@ lezen
 om
 den
 Heer
+
 van
 Lintz
 te
@@ -211703,6 +212540,7 @@ en
 allen
 dooreen
 schreeuwden
+
 Negen-en-dertigste
 hoofdstuk
 Hetwelk
@@ -212145,6 +212983,7 @@ t
 oog
 kreeg
 en
+
 vroeg
 met
 een
@@ -212912,6 +213751,7 @@ geest
 influisterde
 dat
 ik
+
 hem
 van
 den
@@ -213161,6 +214001,7 @@ Algoede
 u
 niet
 alleen
+
 zoo
 volkomen
 vergeven
@@ -213648,6 +214489,7 @@ den
 rechterstoel
 des
 Allerhoogsten
+
 verschenen
 zijn
 -
@@ -213916,6 +214758,7 @@ te
 moeten
 onderdoen
 En
+
 echter
 scheen
 ik
@@ -214190,6 +215033,7 @@ komst
 te
 verbeiden
 en
+
 werkelijk
 hij
 kwam
@@ -214460,6 +215304,7 @@ dat
 men
 een
 juwelier
+
 zoude
 roepen
 er
@@ -214733,6 +215578,7 @@ liever
 die
 mijner
 nicht
+
 niet
 op
 eens
@@ -214994,6 +215840,7 @@ toebehoorde
 Toen
 kwam
 het
+
 denkbeeld
 bij
 mij
@@ -215258,6 +216105,7 @@ overige
 bij
 hem
 gevonden
+
 papieren
 in
 beslag
@@ -215398,6 +216246,7 @@ ongelukkigen
 vader
 jacobus
 blaek
+​
 -
 Gij
 ziet
@@ -215513,6 +216362,7 @@ gedaan
 moet
 worden
 -
+
 Hier
 werd
 er
@@ -215788,6 +216638,7 @@ had
 en
 aan
 welks
+
 uiteinde
 zij
 een
@@ -216028,6 +216879,7 @@ zij
 aleer
 wij
 over
+
 iets
 anders
 spreken
@@ -216278,6 +217130,7 @@ elk
 verborgen
 blijven
 -
+
 -
 Maar
 weet
@@ -216603,6 +217456,7 @@ u
 had
 opgevat
 -
+​
 Zes
 maanden
 later
@@ -216665,6 +217519,7 @@ Mejuffrouw
 Henriëtte
 Blaek
 -
+
 Nawoord
 Hier
 eindigt
@@ -216919,6 +217774,7 @@ niet
 op
 gebeterd
 was
+
 maar
 veeleer
 in
@@ -217483,6 +218339,7 @@ met
 de
 aanvaarding
 zijner
+
 nieuwe
 betrekking
 zeide
@@ -217564,6 +218421,8 @@ zelje
 ghesond
 blijven
 -
+​
 Marie
 Stauffacher
+​
 EINDE

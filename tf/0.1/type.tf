@@ -12,9 +12,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-06T16:29:43Z
+@dateWritten=2023-03-08T14:24:36Z
 
-1257050	chapter
+222309	chapter
 chapter
 chapter
 chapter
@@ -56,7 +56,7 @@ chapter
 chapter
 chapter
 chapter
-1257790	isbn
+223049	isbn
 nur
 isbn
 nur
@@ -64,14 +64,14 @@ isbn
 nur
 isbn
 nur
-1257800	primair
+223059	primair
 primair
 primair
 primair
 primair
 primair
 primair
-1257957	poem
+223191	poem
 poem
 poem
 poem
@@ -112,7 +112,7 @@ poem
 poem
 poem
 poem
-1258002	topo
+223234	topo
 person
 topo
 topo
@@ -378,6 +378,6 @@ topo
 topo
 topo
 topo
-1262925	main
+227277	main
 main
 main

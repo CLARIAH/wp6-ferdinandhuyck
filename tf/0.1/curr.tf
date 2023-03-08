@@ -12,7 +12,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-06T16:29:43Z
+@dateWritten=2023-03-08T14:24:36Z
 
-1262886	euro
+227238	euro
 euro

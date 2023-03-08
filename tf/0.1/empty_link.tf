@@ -1,7 +1,7 @@
 @node
 @author=Jacob van Lennep
 @converters=Dirk Roorda (Text-Fabric)
-@description=whether text is to be rendered as h2
+@description=empty TEI element link follows
 @descriptionTf=Diplomatic edition
 @institute=KNAW/Huygens Amsterdam
 @language=nl
@@ -14,7 +14,5 @@
 @writtenBy=Text-Fabric
 @dateWritten=2023-03-08T14:24:36Z
 
-366	1
-1
-104588	1
-1
+321	1
+342	1

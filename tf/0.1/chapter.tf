@@ -12,9 +12,10 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-06T16:29:43Z
+@dateWritten=2023-03-08T14:24:36Z
 
-1253175	TEI header
+218426	TEI header
+2 interpGrp
 Brief van den Heer P. aan den Uitgever, tot inleiding dienende.
 [Woord van de uitgever]
 Eerste hoofdstuk.
@@ -35,7 +36,7 @@ Vijftiende hoofdstuk.
 Zestiende hoofdstuk.
 Zeventiende hoofdstuk.
 Achttiende hoofdstuk.
-Snedig antwoord:
+Negentiende hoofdstuk.
 Twintigste hoofdstuk.
 Een-en-twintigste hoofdstuk.
 Twee-en-twintigste hoofdstuk.
