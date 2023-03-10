@@ -9,6 +9,7 @@ dataDisplay:
   textFormats:
     layout-orig-full:
       method: layout
+  sectionSep1: "@"
 docs:
   docPage: about
   featureBase: '{docBase}/transcription.md'
