@@ -4,7 +4,7 @@
 
 This repo contains a single book in different representations:
 
-*   `tei`: TEI (our source, from the [DBNL](dbnl.org))
+*   `tei`: TEI (our source, from the [DBNL](https://www.dbnl.orgdbnl.org))
 *   `tf`: Text-Fabric
 *   `pd`: Pandas
 
