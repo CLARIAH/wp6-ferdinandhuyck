@@ -1,12 +1,12 @@
 Inventory of tags and attributes in the source XML file(s).
 Contains the following sections:
-	FORMATTING ATTRIBUTES
-	KEYWORD ATTRIBUTES
-	REMAINING ATTRIBUTES and ELEMENTS
+	Formatting Attributes
+	Keyword Attributes
+	Remaining Attributes and Elements
 
 
 
-FORMATTING ATTRIBUTES
+Formatting Attributes
 
 	<figure>     rend=            3x inline
 
@@ -27,7 +27,7 @@ FORMATTING ATTRIBUTES
 
 	<q>          rend=           27x bq
 
-KEYWORD ATTRIBUTES
+Keyword Attributes
 
 	<div>        type=           42x chapter
 
@@ -44,7 +44,7 @@ KEYWORD ATTRIBUTES
 
 	<title>      type=            3x main
 
-REMAINING ATTRIBUTES and ELEMENTS
+Remaining Attributes and Elements
 
 	<TEI.2>                       1x 
 
