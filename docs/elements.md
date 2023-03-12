@@ -43,35 +43,35 @@ element | attribute | value | amount
 
 element | attribute | value | amount
 --- | --- | --- | ---
-`<TEI.2>` |   | `` | 1
-`<author>` |   | `` | 3
-`<availability>` |   | `` | 3
-`<bibl>` |   | `` | 2
-`<blurb>` |   | `` | 2
-`<body>` |   | `` | 1
-`<change>` |   | `` | 2
-`<colofon>` |   | `` | 2
-`<date>` |   | `` | 4
-`<ebook>` |   | `` | 1
-`<editionStmt>` |   | `` | 1
-`<encodingDesc>` |   | `` | 1
-`<figure>` |   | `` | 2
-`<fileDesc>` |   | `` | 1
-`<head>` |   | `` | 2
-`<idno>` |   | `` | 1
-`<imprint>` |   | `` | 2
+`<TEI.2>` |   |  | 1
+`<author>` |   |  | 3
+`<availability>` |   |  | 3
+`<bibl>` |   |  | 2
+`<blurb>` |   |  | 2
+`<body>` |   |  | 1
+`<change>` |   |  | 2
+`<colofon>` |   |  | 2
+`<date>` |   |  | 4
+`<ebook>` |   |  | 1
+`<editionStmt>` |   |  | 1
+`<encodingDesc>` |   |  | 1
+`<figure>` |   |  | 2
+`<fileDesc>` |   |  | 1
+`<head>` |   |  | 2
+`<idno>` |   |  | 1
+`<imprint>` |   |  | 2
 `<interp>` | `value=` | `X` | 7
-`<interpGrp>` |   | `` | 1
-`<item>` |   | `` | 2
-`<l>` |   | `` | 92
-`<lb>` |   | `` | 25
-`<link>` |   | `` | 2
-`<name>` |   | `` | 2
-`<note>` |   | `` | 2
+`<interpGrp>` |   |  | 1
+`<item>` |   |  | 2
+`<l>` |   |  | 92
+`<lb>` |   |  | 25
+`<link>` |   |  | 2
+`<name>` |   |  | 2
+`<note>` |   |  | 2
   | `n=` | `(N)` | 7
-`<notesStmt>` |   | `` | 1
-`<order>` |   | `` | 2
-`<p>` |   | `` | 3725
+`<notesStmt>` |   |  | 1
+`<order>` |   |  | 2
+`<p>` |   |  | 3725
 `<pb>` | `n=` | `I` | 1
  | | `II` | 1
  | | `III` | 1
@@ -93,18 +93,18 @@ element | attribute | value | amount
  | | `XVI` | 1
  | | `XVII` | 1
  | | `XVIII` | 1
-`<pod>` |   | `` | 1
+`<pod>` |   |  | 1
 `<price>` | `curr=` | `euro` | 2
-`<pubPlace>` |   | `` | 2
-`<publicationStmt>` |   | `` | 1
-`<publisher>` |   | `` | 2
-`<respStmt>` |   | `` | 2
-`<revisionDesc>` |   | `` | 1
-`<sourceDesc>` |   | `` | 1
-`<teiHeader>` |   | `` | 1
-`<text>` |   | `` | 1
-`<titleStmt>` |   | `` | 1
-`<titlepage>` |   | `` | 2
+`<pubPlace>` |   |  | 2
+`<publicationStmt>` |   |  | 1
+`<publisher>` |   |  | 2
+`<respStmt>` |   |  | 2
+`<revisionDesc>` |   |  | 1
+`<sourceDesc>` |   |  | 1
+`<teiHeader>` |   |  | 1
+`<text>` |   |  | 1
+`<titleStmt>` |   |  | 1
+`<titlepage>` |   |  | 2
 `<xptr>` | `to=` | `UNNBN.gif` | 3
  | | `lennNNNlotgNNillNN.gif` | 2
 
