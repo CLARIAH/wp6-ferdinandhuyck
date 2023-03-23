@@ -6,6 +6,8 @@ dataDisplay:
   - unknown
   - null
   - NA
+  sectionSep1: '@'
+  textFormat: layout-orig-full
   textFormats:
     layout-orig-full:
       method: layout
@@ -17,10 +19,10 @@ interfaceDefaults:
   fmt: layout-orig-full
 provenanceSpec:
   branch: main
-  corpus: '{org} - {repo}'
+  corpus: '{org} - {repo}{relative}'
   doi: 10.5281/zenodo.nnnnnn
   moduleSpecs: []
-  version: "0.1"
+  version: '0.1'
   webBase: https://public.{org}.org/{repo}
   webHint: Show this on the website
   webLang: en

@@ -4,9 +4,10 @@
 
 This repo contains a single book in different representations:
 
-*   `tei`: TEI (our source, from the [DBNL](https://www.dbnl.orgdbnl.org))
-*   `tf`: Text-Fabric
-*   `pd`: Pandas
+*   `tei`: [TEI](https://tei-c.org)
+    (our source, from the [DBNL](https://www.dbnl.orgdbnl.org))
+*   `tf`: [Text-Fabric](https://github.com/annotation/text-fabric)
+*   `pd`: [Pandas](https://pandas.pydata.org)
 
 The conversion TEI to TF is done with [programs/tfFromTei.py](programs/tfFromTei.py).
 

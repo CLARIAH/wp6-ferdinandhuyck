@@ -12,7 +12,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-08T14:24:36Z
+@dateWritten=2023-03-21T21:07:11Z
 
 De
 lotgevallen
@@ -228,7 +228,6 @@ HUYCK
 UITGEGEVEN
 DOOR
 Mr
-​
 J
 VAN
 LENNEP
@@ -272,7 +271,6 @@ HUYCK
 UITGEGEVEN
 DOOR
 MR
-​
 J
 VAN
 LENNEP
@@ -1183,7 +1181,6 @@ bleef
 dus
 de
 4o
-​
 edities
 voorstaan
 en
@@ -5942,7 +5939,6 @@ van
 Baalen
 en
 Co
-​
 te
 Amster-dam
 en
@@ -23429,7 +23425,6 @@ van
 exemplaren
 in
 4o
-​
 formaat
 met
 fraaie
@@ -27584,7 +27579,6 @@ naam
 II
 Bedrijf
 10e
-​
 tooneel
 We
 praeten
@@ -45706,7 +45700,6 @@ het
 adres
 van
 Mr
-​
 F
 Huyck
 De
@@ -58156,7 +58149,6 @@ dag
 was
 -
 No
-​
 1
 zeide
 hij
@@ -58201,7 +58193,6 @@ behoorlijk
 te
 rangschikken
 no
-​
 1
 de
 Koning
@@ -58502,7 +58493,6 @@ verder
 -
 -
 No
-​
 2
 De
 diefstal
@@ -58526,7 +58516,6 @@ in
 den
 Duvelshoek
 no
-​
 110
 -
 -
@@ -58656,7 +58645,6 @@ Verder
 -
 -
 No
-​
 3
 Campo
 Weyerman
@@ -58816,7 +58804,6 @@ meer
 -
 -
 No
-​
 4
 Wij
 hebben
@@ -58957,7 +58944,6 @@ meer
 -
 -
 No
-​
 5
 Zie
 hier
@@ -59444,7 +59430,6 @@ buiten
 -
 -
 No
-​
 6
 De
 bende
@@ -59740,7 +59725,6 @@ hem
 -
 -
 No
-​
 7
 De
 Vliesridder
@@ -67191,7 +67175,6 @@ van
 Baalen
 en
 Co
-​
 -
 -
 En
@@ -82326,7 +82309,6 @@ Van
 Baalen
 en
 Co
-​
 ging
 vervullen
 Daar
@@ -97457,7 +97439,6 @@ Heinrich
 Haspel
 en
 Co
-​
 tot
 Hamburg
 schrijven
@@ -134441,7 +134422,6 @@ Willem
 Bartelsz
 en
 Co
-​
 te
 Enkhuizen
 schrijven
@@ -134575,7 +134555,6 @@ Willem
 Bartelsz
 en
 Co
-​
 staat
 ter
 goeder
@@ -154492,7 +154471,6 @@ te
 lezen
 -
 No
-​
 1
 De
 zielverkoopers
@@ -154561,7 +154539,6 @@ Verder
 
 -
 No
-​
 2
 De
 zoon
@@ -154737,7 +154714,6 @@ zijn
 lijst
 -
 No
-​
 3
 Men
 is
@@ -154799,7 +154775,6 @@ vinden
 -
 -
 No
-​
 4
 Het
 gouden
@@ -154993,7 +154968,6 @@ hem
 scherp
 aanziende
 No
-​
 1
 Er
 heeft
@@ -155190,7 +155164,6 @@ ten
 einde
 -
 No
-​
 2
 De
 gezegde
@@ -155341,7 +155314,6 @@ Deventer
 -
 -
 No
-​
 3
 Zacharias
 Heynsz
@@ -164433,7 +164405,6 @@ de
 schuld
 van
 Ds
-​
 Boterbloem
 dat
 de
@@ -164531,7 +164502,6 @@ is
 de
 Dijkgraaf
 Mr
-​
 Coenraad
 van
 Vingerhoed
@@ -168327,7 +168297,6 @@ Gestr
 Nederige
 Dienaar
 heynsz
-​
 -
 ​
 -
@@ -170278,7 +170247,6 @@ zal
 misschien
 uit
 despe-ratie
-​
 met
 haar
 neef

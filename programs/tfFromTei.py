@@ -90,6 +90,7 @@ T = TEI(
     schema=None,
     sourceVersion="2006-08-09",
     testSet=None,
+    wordAsSlot=True,
     sectionModel=SECTION_MODEL,
     generic=GENERIC,
     transform=transform,
