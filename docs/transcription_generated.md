@@ -16,9 +16,9 @@ A TF dataset contains:
 *   in particular, the text itself is stored in one or more features;
 *   there are a few standard features that are present in every TF dataset;
 *   See the
-    [Text-Fabric datamodel](https://annotation.github.io/text-fabric/tf/about/datamodel.html).
+    [Text-Fabric data model](https://annotation.github.io/text-fabric/tf/about/datamodel.html).
 
-In this dataset, **words** fullfill the role of slots.
+In this dataset, **words** fulfill the role of slots.
 
 ## How TEI maps to TF
 
@@ -89,9 +89,9 @@ feature | description
 --- | ---
 `str` | the characters of the word, without soft hyphens.
 `after` | the non-word characters after the word, up till the next word.
-`is_meta` | whether a word is in the teiHeader element
+`is_meta` | whether a word is in the `teiHeader` element
 `is_note` | whether a word is in a note element
-`rend_`*r* | whether a word is under the influence of a `rend="`*r*`"` attribute.
+`rend_r` | whether a word is under the influence of a `rend="r"` attribute.
 
 
 
@@ -126,7 +126,7 @@ This corpus is converted with section **Model II**.
 
 
 
-### Model II: single file and divs.
+### Model II: single file and div elements.
 
 This model assumes that the source is a single TEI file.
 
@@ -134,7 +134,7 @@ There are two section levels:
 
 *   *chapter* Top-level division, roughly corresponding to top-level `<div>` elements;
     heading: a sequence number and a tag name, or the contents of an heading-bearing element;
-*   *chunk* division withint the chapters, roughly corresponding to `<p>` elements.
+*   *chunk* division within the chapters, roughly corresponding to `<p>` elements.
     heading: sequence number of the chunk within a chapter; chunks that are `<p>` elements
     are numbered with positive numbers; other chunks are numbered separately with negative numbers.
 
@@ -193,10 +193,10 @@ and hyphens.
 1.  What is alphanumeric is determined by the unicode class of the character,
     see the Python documentation of the function
     [`isalnum()`](https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str)
-1.  Hyphens are Unicode characters 002D (ascii hyphen) and 2010 (unicode hyphen).
+1.  Hyphens are Unicode characters 002D (ASCII hyphen) and 2010 (unicode hyphen).
 1.  Words get the following features:
     *   `str`: the alphanumeric string that is the word;
-    *   `after`: the non-alphanumeric string after the word unti the following word.
+    *   `after`: the non-alphanumeric string after the word until the following word.
 
 ## Words
 
@@ -223,8 +223,8 @@ When empty elements occur, something must be done to anchor them to the text str
 ### Words in general
 
 1.  Spaces are stripped when they are between elements whose parent does not allow
-    mixed content; other whitespace is reduced to a single space.
-1.  All words inside the teiHeader will get the feature `is_meta` set to 1;
+    mixed content; other white-space is reduced to a single space.
+1.  All words inside the `teiHeader` will get the feature `is_meta` set to 1;
     for words inside the body, `is_meta` has no value.
 
 
@@ -244,7 +244,7 @@ The basic unit is the word, as detected by the rules above.
 1. Features that have different values for different characters in the word,
    will have the last value encountered for the whole word.
 1. Formatting attributes, such as `rend=italic` (see below) will give rise
-   to features `r_italic`. If a word is embedded in severel elements with
+   to features `r_italic`. If a word is embedded in several elements with
    `rend` attributes and different values for them, the word will get
    features `r_`*value* for all those values. But if different parts of the
    word are in the scope of different `rend` values, that information will be lost,
@@ -263,13 +263,13 @@ The following features are added:
 
 *   `is_meta`: 1 if the word occurs in inside the `<teiHeader>`, no value otherwise.
 *   `is_note`: 1 if the word occurs in inside the `<note>`, no value otherwise.
-*   `rend_`*r*: for any *r* that is the value of a `rend` attribute.
+*   `rend_r`: for any `r` that is the value of a `rend` attribute.
 
 All these features are defined for `word` nodes.
 For word nodes, the value of these features is set equal to what these features
 are for their first character.
 
-Special formatting for the `rend_`*r* features is supported for some values of *r*.
+Special formatting for the `rend_r` features is supported for some values of `r`.
 The conversion supports these out-of-the-box:
 
 value | description
@@ -278,7 +278,7 @@ value | description
 `b` | bold font weight
 `below` | below the line
 `bold` | bold font weight
-`center` | horizontally centered text
+`center` | horizontally centred text
 `h1` | heading of level 1
 `h2` | heading of level 2
 `h3` | heading of level 3
@@ -316,7 +316,7 @@ what text is displayed.
 There are two kind of text-formats: those that start with the word `layout` and
 those that start with `text`.
 
-The `text` formats do not apply any kind of special formating, the `layout` formats
+The `text` formats do not apply any kind of special formatting, the `layout` formats
 do.
 
 We have the following formats:
@@ -340,7 +340,7 @@ a bit.
 1.  Comments (`<!-- this is a comment -->`) are ignored.
 1.  Declarations (`<?xml ...>` `<?xml-model ...>` `<?xml-stylesheet ...>`) are
     read by the parser, but do not leave traces in the TF output.
-1.  The atrributes of the root-element (`<TEI>`) are ignored.
+1.  The attributes of the root-element (`<TEI>`) are ignored.
 1.  Namespaces (`xmlns="http://www.tei-c.org/ns/1.0"`) are read by the parser,
     but only the unqualified names are distinguishable in the output as feature names.
     So if the input has elements `tei:abb` and `ns:abb`, we'll see just the node

@@ -14,7 +14,7 @@ attributes | features | columns
 
 ## Rows
 
-The rows in the dataframe correspond to the Text-Fabric nodes, which derive
+The rows in the data frame correspond to the Text-Fabric nodes, which derive
 from the TEI elements plus a few additional objects such as `chunk`, `chapter`.
 The order of the rows is a top-down, left-right walk through the TEI tree.
 
